@@ -1,6 +1,9 @@
-# ws
+# Pemrograman III (Web Services)
 Repository untuk perkuliahan web services kelas rekognisi pembelajaran lampau (RPL) sarjana terapan teknik informatika ULBI
 
+## Jadwal Kuliah
+* Jumat Pukul 19:00 - 20:00
+* Sabtu Pukul 09:00 - 11:00
 
 # gofiber
 
