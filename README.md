@@ -20,7 +20,7 @@ Data Mahasiswa
 | ------- | -------------- | --- |
 | ISI NPM | NAMA MAHASISWA | 0   |
 
-# Materi Perkuliahan Chapter 1
+# Pendahuluan
 
 Untuk perkuliahan yang harus dipersiapkan terdiri dari:
 
@@ -36,3 +36,6 @@ Untuk perkuliahan yang harus dipersiapkan terdiri dari:
 4. Berikan komentar "git commit -m "isi komentar"
 5. Push "git push -u origin master" - jika berada di brance master - main (main)
 6. Jika sudah terinisialisasi tinggal "git push" saja
+7. Jika sudah fork jangan lupa sincronisasi repository
+![image](https://user-images.githubusercontent.com/15622730/224335490-5d0d430c-293f-45ac-b3a3-1bd319f4a47c.png)
+
