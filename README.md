@@ -14,9 +14,9 @@ Tugas, Semua Ada disini, upload ya, iya....
 
 # Data Mahasiswa
 ## Absensi Kehadiran
-| PERTEMUAN | HARI/TGL | NPM     | Nama           | 1   |
+| PERTEMUAN | HARI/TGL | NPM     | NAMA           | KEHADIRAN   |
 | ------- | ------- | ------- | -------------- | --- |
-| 1 | JUMAT 10/03/23 | YADI MULYADI | HADIR   |
+| 1 | JUMAT 10/03/23 | ISI NPM | YADI MULYADI | HADIR   |
 
 
 ## Daftar Nilai
