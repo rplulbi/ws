@@ -11,14 +11,19 @@ Repository untuk perkuliahan web services kelas rekognisi pembelajaran lampau (R
 
 Golang Fiber Framework
 Tugas, Semua Ada disini, upload ya, iya....
+...
 
-Data Mahasiswa
+# Data Mahasiswa
+
+...
 
 ## Daftar Nilai
 
 | NPM     | Nama           | 1   |
 | ------- | -------------- | --- |
 | ISI NPM | NAMA MAHASISWA | 0   |
+
+...
 
 # Pendahuluan
 
@@ -43,3 +48,30 @@ Untuk perkuliahan yang harus dipersiapkan terdiri dari:
 ## Penggunaan SSH Key
 
 1. Klik link berikut (https://www.roniandarsyah.com/2019/07/cara-mudah-konfigurasi-ssh-key-gitlab.html)
+
+## Set config global
+
+Just One time for first instalation of git scm,
+
+```sh
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
+
+## Generate RSA Key
+
+Just One time for first instalation of git scm,
+
+```sh
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+```
+
+## Get SSH Key
+
+to get ssh key in your computer, and put in your github or gitlab ssh key setting.
+
+```sh
+cat ~/.ssh/id_rsa.pub
+```
+
+if there is no key appears, plese generate the key also set global config of git in next section and please add the public key to your github profile.
