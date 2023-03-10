@@ -17,6 +17,7 @@ Tugas, Semua Ada disini, upload ya, iya....
 | PERTEMUAN | HARI/TGL | NPM     | NAMA           | KEHADIRAN   |
 | ------- | ------- | ------- | -------------- | --- |
 | 1 | JUMAT 10/03/23 | ISI NPM | YADI MULYADI | HADIR   |
+| 1 | JUMAT 10/03/23 | ISI NPM | ARDINI YUANITA LUBIS | IZIN   |
 
 
 ## Daftar Nilai
