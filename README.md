@@ -12,13 +12,19 @@ Repository untuk perkuliahan web services kelas rekognisi pembelajaran lampau (R
 Golang Fiber Framework
 Tugas, Semua Ada disini, upload ya, iya....
 
-Data Mahasiswa
+# Data Mahasiswa
+## Absensi Kehadiran
+| PERTEMUAN | HARI/TGL | NPM     | Nama           | 1   |
+| ------- | ------- | ------- | -------------- | --- |
+| 1 | JUMAT 10/03/23 | YADI MULYADI | HADIR   |
+
 
 ## Daftar Nilai
 
 | NPM     | Nama           | 1   |
 | ------- | -------------- | --- |
-| ISI NPM | NAMA MAHASISWA | 0   |
+| ISI NPM | YADI MULYADI | 0   |
+| ISI NPM | ARDINI YUANITA LUBIS | 0   |
 
 # Pendahuluan
 
