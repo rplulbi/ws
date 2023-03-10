@@ -12,5 +12,5 @@ Untuk perkuliahan yang harus dipersiapkan terdiri dari:
 2. Untuk upload ketikan "git add ." (seluruh file)
 3. Untuk upload ketikan "git add NAMAFILE"
 4. Berikan komentar "git commit -m "isi komentar"
-5. Push "git push origin master" - jika berada di brance master - main (main)
+5. Push "git push -u origin master" - jika berada di brance master - main (main)
 6. Jika sudah terinisialisasi tinggal "git push" saja
