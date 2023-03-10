@@ -12,7 +12,7 @@ Repository untuk perkuliahan web services kelas rekognisi pembelajaran lampau (R
 Golang Fiber Framework
 Tugas, Semua Ada disini, upload ya, iya....
 
-# Data Mahasiswa
+# Berita Acara Perkuliahan
 ## Absensi Kehadiran
 | PERTEMUAN | HARI/TGL | NPM     | NAMA           | KEHADIRAN   |
 | ------- | ------- | ------- | -------------- | --- |
