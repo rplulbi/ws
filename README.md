@@ -15,15 +15,13 @@ Tugas, Semua Ada disini, upload ya, iya....
 
 # Data Mahasiswa
 
-...
+Data Mahasiswa
 
 ## Daftar Nilai
 
 | NPM     | Nama           | 1   |
 | ------- | -------------- | --- |
 | ISI NPM | NAMA MAHASISWA | 0   |
-
-...
 
 # Pendahuluan
 
