@@ -20,6 +20,8 @@ Tugas, Semua Ada disini, upload ya, iya....
 | -------| -------| ------- | -------------- | --- |
 | 1 | Jumat, 10/03/23 | Isi NPM | Yadi Mulyadi | Hadir  |
 |  | Jumat, 10/03/23 | Isi NPM | Ardini Yuanita Lubis | Izin  |
+| 2 | Sabtu, 11/03/23 | Isi NPM | Yadi Mulyadi | -  |
+|  | Sabtu, 11/03/23 | Isi NPM | Ardini Yuanita Lubis | -  |
 
 ## Daftar Nilai
 
