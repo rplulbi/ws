@@ -6,6 +6,10 @@ Untuk perkuliahan yang harus dipersiapkan terdiri dari:
 2. Instal Git SCM (https://git-scm.com/)
 3. Fork Repository WS
 
+Bukti Kehadiran
+![image](https://user-images.githubusercontent.com/15622730/224464406-ae393a52-ff46-480f-a591-e5ea347c503e.png)
+![image](https://user-images.githubusercontent.com/15622730/224464412-5cbfe4e4-1777-4ec4-8887-8d58f60ce45c.png)
+
 ## Perintah menggunakan gitbash
 
 1. Jika sudah menambahkan file ketikan "git status"
