@@ -17,7 +17,7 @@ Tugas, Semua Ada disini, upload ya, iya....
 
 ## Absensi Kehadiran
 | PART     | Hari/Tgl          | NPM     | Nama           | Kehadiran  |
-| ------- | -------------- | --- |
+| -------| -------| ------- | -------------- | --- |
 | 1 | Jumat, 10/03/23 | Isi NPM | Yadi Mulyadi | Hadir  |
 |  | Jumat, 10/03/23 | Isi NPM | Ardini Yuanita Lubis | Izin  |
 
