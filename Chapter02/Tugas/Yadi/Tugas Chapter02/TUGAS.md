@@ -1,5 +1,5 @@
 Tugas Chapter02
-Yadi Mulyadi - 714222074l
+Yadi Mulyadi - 714222074
 
 JSON (JavaScript Object Notation) dan XML (Extensible Markup Language)  digunakan untuk bertukar data antar aplikasi. Namun, ada beberapa perbedaan antara keduanya: 
  1. Format sintaks: JSON menggunakan format yang lebih sederhana dan dapat dibaca  manusia. Meskipun XML menggunakan format yang lebih kompleks dan sulit dibaca oleh manusia. 
