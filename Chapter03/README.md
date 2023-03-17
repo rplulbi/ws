@@ -22,3 +22,7 @@ Kebalikan dari Public API yang digunakan oleh siapa saja, Private API tidak bole
 Contoh : API dari Backend yang digunakan mengakses frontend website
 ## Partner API
 Partner API boleh digunakan secara umum, tapi hanya bagi pihak yang bekerja sama dan memiliki izin untuk menggunakannya
+
+# Lanjut ke Golang
+![image](https://user-images.githubusercontent.com/15622730/225855029-88782d37-b7bb-45a6-b3dc-572adf37ae14.png)
+
