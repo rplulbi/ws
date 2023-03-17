@@ -27,10 +27,10 @@ Tugas, Semua Ada disini, upload ya, iya....
 
 ## Daftar Nilai
 
-| NPM     | Nama           | Tugas 1   |
+| No     | Nama           | Tugas 1   |
 | ------- | -------------- | --- |
-| ISI NPM | Yadi Mulyadi | 0   |
-| ISI NPM | Ardini Yuanita Lubis | 0   |
+| 1 | Yadi Mulyadi | 0   |
+| 2 | Ardini Yuanita Lubis | 0   |
 
 # Pendahuluan
 
