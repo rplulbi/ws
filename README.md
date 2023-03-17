@@ -66,8 +66,8 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 |  | Jumat, 10/03/23  | Ardini Yuanita Lubis | Izin  |
 | 2 | Sabtu, 11/03/23  | Yadi Mulyadi | Hadir  |
 |  | Sabtu, 11/03/23 | Ardini Yuanita Lubis | Hadir  |
-| 3 | Jumat, 17/03/23  | Yadi Mulyadi | -  |
-|  | Jumat, 17/03/23  | Ardini Yuanita Lubis | -  |
+| 3 | Jumat, 17/03/23  | Yadi Mulyadi | Hadir  |
+|  | Jumat, 17/03/23  | Ardini Yuanita Lubis | Hadir  |
 | 4 | Sabtu, 18/03/23  | Yadi Mulyadi | -  |
 |  | Sabtu, 18/03/23  | Ardini Yuanita Lubis | -  |
 
