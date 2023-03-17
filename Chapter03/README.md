@@ -11,18 +11,11 @@ Representational State Transfer (REST) adalah arsitektur perangkat lunak yang me
 
 Developer API dapat merancang API menggunakan beberapa arsitektur yang berbeda. API yang mengikuti gaya arsitektur REST disebut sebagai API REST. Layanan web yang menerapkan arsitektur REST disebut sebagai layanan web RESTful. Istilah API RESTful umumnya merujuk pada API web RESTful. Namun, Anda dapat menggunakan istilah API REST dan API RESTful secara bergantian.
 
-## Berikut adalah beberapa prinsip gaya arsitektur REST:
-* Antarmuka seragam
-Antarmuka seragam adalah desain fundamental dari semua layanan web RESTful. Ini mengindikasikan bahwa server mentransfer informasi dalam format standar. Sumber daya terformat disebut representasi dalam REST. Format ini dapat berbeda dari representasi internal sumber daya pada aplikasi server. Contohnya, server dapat menyimpan data sebagai teks tetapi mengirimkannya dalam format representasi HTML.
-Antarmuka seragam memberlakukan empat hambatan arsitektur:
-
-    * Permintaan harus mengidentifikasi sumber daya. Permintaan melakukannya dengan menggunakan pengidentifikasi sumber daya seragam.
-    Klien memiliki cukup informasi dalam representasi sumber daya untuk memodifikasi atau menghapus sumber daya jika diinginkan. Server memenuhi syarat ini dengan         mengirimkan metadata yang menjelaskan sumber daya lebih lanjut.
-    Klien menerima informasi mengenai cara untuk memproses representasi lebih lanjut. Server mencapainya dengan mengirimkan pesan deskriptif mandiri yang berisi           metadata mengenai cara klien dapat menggunakannya sebaik mungkin.
-    Klien menerima informasi mengenai semua sumber daya terkait lainnya yang dibutuhkan untuk menyelesaikan tugas. Server mencapainya dengan mengirim hyperlink di dalam representasi sehingga klien dapat menemukan lebih banyak sumber daya secara dinamis.
-
-* Statelessness
-   * Dalam arsitektur REST, statelessness mengacu pada metode komunikasi tempat server menyelesaikan setiap permintaan klien secara independen dari semua permintaan sebelumnya. Klien dapat meminta sumber daya dalam perintah apa pun, dan setiap permintaan berada dalam status stateless atau terisolasi dari permintaan lain. Hambatan rancangan API REST ini menyiratkan bahwa server dapat sepenuhnya memahami dan memenuhi permintaan setiap waktu. 
-   
-* Sistem berlapis
-   * Dalam arsitektur sistem berlapis, klien dapat terhubung ke perantara resmi lain antara klien dan server, dan masih akan menerima respons dari server tersebut. Server juga dapat meneruskan permintaan ke server lain. Anda dapat merancang layanan web RESTful untuk berjalan pada beberapa server dengan beberapa lapisan seperti keamanan, aplikasi, dan logika bisnis, bekerja sama untuk memenuhi permintaan klien. Lapisan ini tetap terlihat oleh klien.
+# Jenis API
+## Public API
+Public API adalah jenis API yang boleh digunakan siapa saja diberbagai platform, Public API juga sering disebut sebagai Open API dan merupakan yang paling sering digunakan
+## Private API
+Kebalikan dari Public API yang digunakan oleh siapa saja, Private API tidak boleh digunakan secara umum, Jenis API ini biasanya digunakan untuk keperluan probadi atau internal dalam pengembangan aplikasi tertentu.
+Contoh : API dari Backend yang digunakan mengakses frontend website
+## Partner API
+Partner API boleh digunakan secara umum, tapi hanya bagi pihak yang bekerja sama dan memiliki izin untuk menggunakannya
