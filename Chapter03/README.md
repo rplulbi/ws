@@ -20,3 +20,9 @@ Antarmuka seragam memberlakukan empat hambatan arsitektur:
     Klien memiliki cukup informasi dalam representasi sumber daya untuk memodifikasi atau menghapus sumber daya jika diinginkan. Server memenuhi syarat ini dengan         mengirimkan metadata yang menjelaskan sumber daya lebih lanjut.
     Klien menerima informasi mengenai cara untuk memproses representasi lebih lanjut. Server mencapainya dengan mengirimkan pesan deskriptif mandiri yang berisi           metadata mengenai cara klien dapat menggunakannya sebaik mungkin.
     Klien menerima informasi mengenai semua sumber daya terkait lainnya yang dibutuhkan untuk menyelesaikan tugas. Server mencapainya dengan mengirim hyperlink di dalam representasi sehingga klien dapat menemukan lebih banyak sumber daya secara dinamis.
+
+* Statelessness
+   * Dalam arsitektur REST, statelessness mengacu pada metode komunikasi tempat server menyelesaikan setiap permintaan klien secara independen dari semua permintaan sebelumnya. Klien dapat meminta sumber daya dalam perintah apa pun, dan setiap permintaan berada dalam status stateless atau terisolasi dari permintaan lain. Hambatan rancangan API REST ini menyiratkan bahwa server dapat sepenuhnya memahami dan memenuhi permintaan setiap waktu. 
+   
+* Sistem berlapis
+   * Dalam arsitektur sistem berlapis, klien dapat terhubung ke perantara resmi lain antara klien dan server, dan masih akan menerima respons dari server tersebut. Server juga dapat meneruskan permintaan ke server lain. Anda dapat merancang layanan web RESTful untuk berjalan pada beberapa server dengan beberapa lapisan seperti keamanan, aplikasi, dan logika bisnis, bekerja sama untuk memenuhi permintaan klien. Lapisan ini tetap terlihat oleh klien.
