@@ -25,8 +25,8 @@ Partner API boleh digunakan secara umum, tapi hanya bagi pihak yang bekerja sama
 
 # Lanjut ke Golang
 ![image](https://user-images.githubusercontent.com/15622730/225855029-88782d37-b7bb-45a6-b3dc-572adf37ae14.png)
-[ ] Materi Awal (https://go.dev/doc/tutorial/getting-started)
-[ ] Membuat Module (https://go.dev/doc/tutorial/create-module)
-[ ] Cloud Shell (Jika diperlukan)
+* Materi Awal (https://go.dev/doc/tutorial/getting-started)
+* Membuat Module (https://go.dev/doc/tutorial/create-module)
+* Cloud Shell (Jika diperlukan)
 ![image](https://user-images.githubusercontent.com/15622730/225855442-4c2ec1c7-66f0-4ba1-90bc-56b60b0776e7.png)
 
