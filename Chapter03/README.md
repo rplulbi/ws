@@ -16,7 +16,7 @@ Developer API dapat merancang API menggunakan beberapa arsitektur yang berbeda. 
 Antarmuka seragam adalah desain fundamental dari semua layanan web RESTful. Ini mengindikasikan bahwa server mentransfer informasi dalam format standar. Sumber daya terformat disebut representasi dalam REST. Format ini dapat berbeda dari representasi internal sumber daya pada aplikasi server. Contohnya, server dapat menyimpan data sebagai teks tetapi mengirimkannya dalam format representasi HTML.
 Antarmuka seragam memberlakukan empat hambatan arsitektur:
 
-Permintaan harus mengidentifikasi sumber daya. Permintaan melakukannya dengan menggunakan pengidentifikasi sumber daya seragam.
-Klien memiliki cukup informasi dalam representasi sumber daya untuk memodifikasi atau menghapus sumber daya jika diinginkan. Server memenuhi syarat ini dengan mengirimkan metadata yang menjelaskan sumber daya lebih lanjut.
-Klien menerima informasi mengenai cara untuk memproses representasi lebih lanjut. Server mencapainya dengan mengirimkan pesan deskriptif mandiri yang berisi metadata mengenai cara klien dapat menggunakannya sebaik mungkin.
-Klien menerima informasi mengenai semua sumber daya terkait lainnya yang dibutuhkan untuk menyelesaikan tugas. Server mencapainya dengan mengirim hyperlink di dalam representasi sehingga klien dapat menemukan lebih banyak sumber daya secara dinamis.
+    * Permintaan harus mengidentifikasi sumber daya. Permintaan melakukannya dengan menggunakan pengidentifikasi sumber daya seragam.
+    Klien memiliki cukup informasi dalam representasi sumber daya untuk memodifikasi atau menghapus sumber daya jika diinginkan. Server memenuhi syarat ini dengan         mengirimkan metadata yang menjelaskan sumber daya lebih lanjut.
+    Klien menerima informasi mengenai cara untuk memproses representasi lebih lanjut. Server mencapainya dengan mengirimkan pesan deskriptif mandiri yang berisi           metadata mengenai cara klien dapat menggunakannya sebaik mungkin.
+    Klien menerima informasi mengenai semua sumber daya terkait lainnya yang dibutuhkan untuk menyelesaikan tugas. Server mencapainya dengan mengirim hyperlink di dalam representasi sehingga klien dapat menemukan lebih banyak sumber daya secara dinamis.
