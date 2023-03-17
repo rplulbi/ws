@@ -1,10 +1,13 @@
 # Belajar API
 ## Apa itu API RESTful?
 API RESTful adalah antarmuka yang digunakan oleh dua sistem komputer untuk bertukar informasi secara aman melalui internet. Sebagian besar aplikasi bisnis harus berkomunikasi dengan aplikasi internal dan pihak ketiga lainnya untuk melakukan berbagai tugas. Misalnya, untuk menghasilkan slip gaji bulanan, sistem akun internal Anda harus berbagi data dengan sistem perbankan pelanggan Anda untuk mengotomatiskan tagihan dan berkomunikasi dengan aplikasi absensi internal. API RESTful mendukung pertukaran informasi ini karena mengikuti standar komunikasi perangkat lunak yang aman, andal, dan efisien.
+![image](https://user-images.githubusercontent.com/15622730/225853526-7e54afc2-019e-4521-a300-550151ae9102.png)
 
 ## Apa itu API?
 Antarmuka Program Aplikasi (API) menentukan aturan yang harus Anda ikuti untuk berkomunikasi dengan sistem perangkat lunak lain. Developer mengekspos dan membuat API sehingga aplikasi lain dapat berkomunikasi dengan aplikasinya secara terprogram. Contohnya, aplikasi absensi mengekspos API yang meminta nama lengkap pegawai dan rentang tanggal. Saat menerima informasi ini, API memproses absensi pegawai secara internal dan mengembalikan jumlah jam kerja dalam rentang tanggal tersebut.
 Anda dapat menganggap sebuah API web sebagai gateway antara klien dan sumber daya pada web.
+
+![image](https://user-images.githubusercontent.com/15622730/225853428-c1202e2a-11a4-4405-83f2-27e7feeb2756.png)
 
 ## Apa itu REST?
 Representational State Transfer (REST) adalah arsitektur perangkat lunak yang memberlakukan syarat mengenai cara API bekerja. REST pada awalnya dibuat sebagai panduan untuk mengelola komunikasi pada jaringan kompleks seperti internet. Anda dapat menggunakan arsitektur berbasis REST untuk mendukung komunkasi berperforma tinggi dan andal sesuai skala. Anda dapat dengan mudah menerapkan dan memodifikasinya, membawa visibilitas dan portabilitas lintas platform ke semua sistem API.
