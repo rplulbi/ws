@@ -1,4 +1,5 @@
 # Belajar Golang
+![image](https://user-images.githubusercontent.com/15622730/225853993-47a185c4-3f5f-4da0-af32-2f40fd0531e8.png)
 
 **[Golang](https://golang.org/)** (atau biasa disebut dengan **Go**) adalah bahasa pemrograman yang dikembangkan di **Google** oleh **[Robert Griesemer](https://github.com/griesemer)**, **[Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike)**, dan **[Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)** pada tahun 2007 dan mulai diperkenalkan ke publik tahun 2009.
 
@@ -22,4 +23,3 @@ Sudah banyak industri dan perusahaan yg menggunakan Go sampai level production, 
 
 Pada buku ini (terutama semua serial chapter A) kita akan belajar tentang dasar pemrograman Go, mulai dari 0.
 
-![The Go Logo](images/A_introduction_1_logo.png)
