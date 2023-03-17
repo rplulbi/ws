@@ -19,21 +19,15 @@ Untuk membuat antarmuka menggunakan komponen tailwind contoh :https://tailwindco
 
 lakukan download. fork repo ini. kemudian open with code. taruh file htmlnya di folder di dalam folder site
 
-![image](https://user-images.githubusercontent.com/11188109/218395570-c0c5b05f-27ff-44d8-8bf5-4c898f363e38.png)
+![image](https://user-images.githubusercontent.com/15622730/225920294-1ed3649f-d71c-4094-9824-8c708a159716.png)
 
 fork repo
 
-![image](https://user-images.githubusercontent.com/11188109/218396020-b9138cfb-3ffe-4998-85d3-a1a8c274e634.png)
-
+![image](https://user-images.githubusercontent.com/15622730/225920374-001f7963-1b51-4848-b812-f6e3ce18e869.png)
 lakukan clone repo yang di fork
-
-![image](https://user-images.githubusercontent.com/11188109/218396201-b906ff2c-af14-4d65-b9c1-bc9f52882fe7.png)
-
 
 install plugin live server
 ![image](https://user-images.githubusercontent.com/11188109/218396548-483f109a-c88c-4bc6-96d0-5d784a447556.png)
-
-
 
 
 # Menghubungkan situs dengan Public API
