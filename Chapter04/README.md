@@ -32,49 +32,49 @@ install plugin live server
 
 # Menghubungkan situs dengan Public API
 
-1. Buat folder NPM di dalam folder site
+1. Buat folder Nama di dalam folder Praktikum
 2. Buat template tailwindcss simpan sebagai index.html
 3. buat file js dengan nama croot.js panggil di bawah dengan script, sebelum tag </body>
     ```html
-    <script src="./croot.js"></script>
+    <script src="./test.js"></script>
     ```
 4. Buka dengan live server, inspect lihat di console.
 
-    ![image](https://user-images.githubusercontent.com/11188109/218408763-7514c229-ce10-4a48-b275-ebf23ddbf782.png)
+![image](https://user-images.githubusercontent.com/15622730/225922088-3f53696e-7b02-4c01-9705-dbfe040b9745.png)
 
-6. Isi dari script croot.js contoh :
+6. Isi dari script test.js contoh :
     ```js
     var myHeaders = new Headers();
-    myHeaders.append("Cookie", "connect.sid=s%3AMsnp_KW3uPWTf6gN4GDNl7XAoOShdRL2.VK05aaDbN1FeG%2BScGHtOuxENv5s2ABoZZzLpqN%2FUbZs");
+myHeaders.append("Cookie", "connect.sid=s%3AMsnp_KW3uPWTf6gN4GDNl7XAoOShdRL2.VK05aaDbN1FeG%2BScGHtOuxENv5s2ABoZZzLpqN%2FUbZs");
 
-    var requestOptions = {
-      method: 'GET',
-      headers: myHeaders,
-      redirect: 'follow'
-    };
+var requestOptions = {
+  method: 'GET',
+  headers: myHeaders,
+  redirect: 'follow'
+};
 
-    hasil=""
+hasil=""
 
-    fetch("https://cat-fact.herokuapp.com/facts", requestOptions)
-      .then(response => response.text())
-      .then(result => tampilkan(result))
-      .catch(error => console.log('error', error));
+fetch("https://cat-fact.herokuapp.com/facts", requestOptions)
+  .then(response => response.text())
+  .then(result => tampilkan(result))
+  .catch(error => console.log('error', error));
 
-    function tampilkan(result){
-      console.log(result);
-      hasil=JSON.parse(result);
+function tampilkan(result){
+  console.log(result);
+  hasil=JSON.parse(result);
 
-      //document.getElementById("nama").innerHTML(result);
-    }
+  document.getElementById("nama").innerHTML(result);
+}
+
     ```
     
     akan terlihat variabel hasil di console log
     
-    ![image](https://user-images.githubusercontent.com/11188109/218419862-983ddbba-a445-41a5-a703-f2d56829888a.png)
-    
+![image](https://user-images.githubusercontent.com/15622730/225922649-e45e3e0f-3214-4698-81be-1976de9f135a.png)    
     untuk akses variabel global hasil kita pakai console log
     
-    ![image](https://user-images.githubusercontent.com/11188109/218420311-3aa5700f-f6ec-4d5a-82d3-2000fdb24df6.png)
+    ![image](https://user-images.githubusercontent.com/15622730/225923912-ad48cb50-168f-4aca-9df2-7bc29dd0b360.png)
     
     kemudian tambahkan ramuan looping untuk mengeluarkan semuanya
     
@@ -83,16 +83,10 @@ install plugin live server
 ## Tugas
 
 1. Buat folder NPM di dalam folder site di dalam folder chapter01. Pilih Public API
-
 2. Ada dua file yang dibuat yaitu index.html dan asal.js. 
-
 3. Buat html bisa membaca semua data dari API, pastikan setiap orang berbeda, tidak boleh sama API nya.
     ![image](https://user-images.githubusercontent.com/11188109/218429415-dc895212-8982-4d73-9010-32cf5e72906f.png)
+4. Pull Request Dengan Subjek : Tugas_Nama, 
 
-4. Pull Request Dengan Subjek : 1-KELAS-NPM-NAMA , 
-5. Description : please include your screenshoot of your application and attach your javascript certificate.
-    * Take course from [mygreatlearning](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-javascript) or from [LinkedIn](https://www.linkedin.com/learning/javascript-for-web-designers-3)
-    * Take Javascript Learning from [Google](https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript) for next class meeting.
-6. After Approved you might go home
 
 
