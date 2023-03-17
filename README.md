@@ -7,12 +7,6 @@ Repository untuk perkuliahan web services kelas rekognisi pembelajaran lampau (R
 - Jumat Pukul 19:00 - 20:00
 - Sabtu Pukul 09:00 - 11:00
 
-# gofiber
-
-Golang Fiber Framework
-Tugas, Semua Ada disini, upload ya, iya....
-...
-
 # Data Mahasiswa
 
 ## Absensi Kehadiran
