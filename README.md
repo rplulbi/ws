@@ -16,8 +16,8 @@ Tugas, Semua Ada disini, upload ya, iya....
 # Data Mahasiswa
 
 ## Absensi Kehadiran
-| Nama     | Pertemuan 1  | Pertemuan 2 |Pertemuan 3 |Pertemuan 4 |Pertemuan 5 |Pertemuan 6 |Pertemuan 7 |UTS |Pertemuan 8 |Pertemuan 9 |Pertemuan 10 |Pertemuan 11 |Pertemuan 12 |Pertemuan 13 |Pertemuan 14 | UAS |
-| -------| -------|-------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nama     | Pertemuan 1  | Pertemuan 2 |Pertemuan 3 |Pertemuan 4 |Pertemuan 5 |Pertemuan 6 |Pertemuan 7 |
+| -------| -------|-------------- | --- | --- | --- | --- | --- | 
 
 
 | PART     | Hari/Tgl   | Nama           | Kehadiran  |
