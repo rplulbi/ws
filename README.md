@@ -20,16 +20,18 @@ Tugas, Semua Ada disini, upload ya, iya....
 | -------| -------|-------------- | --- |
 | 1 | Jumat, 10/03/23  | Yadi Mulyadi | Hadir  |
 |  | Jumat, 10/03/23  | Ardini Yuanita Lubis | Izin  |
-| 2 | Jumat, 11/03/23  | Yadi Mulyadi | Hadir  |
+| 2 | Sabtu, 11/03/23  | Yadi Mulyadi | Hadir  |
 |  | Sabtu, 11/03/23 | Ardini Yuanita Lubis | Hadir  |
 | 3 | Jumat, 17/03/23  | Yadi Mulyadi | -  |
+|  | Jumat, 17/03/23  | Ardini Yuanita Lubis | -  |
+| 4 | Sabtu, 18/03/23  | Yadi Mulyadi | -  |
 |  | Sabtu, 18/03/23  | Ardini Yuanita Lubis | -  |
 
 ## Daftar Nilai
 
 | No     | Nama           | Tugas 1   |
 | ------- | -------------- | --- |
-| 1 | Yadi Mulyadi | 0   |
+| 1 | Yadi Mulyadi | 85   |
 | 2 | Ardini Yuanita Lubis | 0   |
 
 # Pendahuluan
