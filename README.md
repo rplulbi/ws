@@ -1,33 +1,6 @@
 # Pemrograman III (Web Services)
 
 Repository untuk perkuliahan web services kelas rekognisi pembelajaran lampau (RPL) sarjana terapan teknik informatika ULBI
-
-## Jadwal Kuliah
-
-- Jumat Pukul 19:00 - 20:00
-- Sabtu Pukul 09:00 - 11:00
-
-# Data Mahasiswa
-
-## Absensi Kehadiran
-| PART     | Hari/Tgl   | Nama           | Kehadiran  |
-| -------| -------|-------------- | --- |
-| 1 | Jumat, 10/03/23  | Yadi Mulyadi | Hadir  |
-|  | Jumat, 10/03/23  | Ardini Yuanita Lubis | Izin  |
-| 2 | Sabtu, 11/03/23  | Yadi Mulyadi | Hadir  |
-|  | Sabtu, 11/03/23 | Ardini Yuanita Lubis | Hadir  |
-| 3 | Jumat, 17/03/23  | Yadi Mulyadi | -  |
-|  | Jumat, 17/03/23  | Ardini Yuanita Lubis | -  |
-| 4 | Sabtu, 18/03/23  | Yadi Mulyadi | -  |
-|  | Sabtu, 18/03/23  | Ardini Yuanita Lubis | -  |
-
-## Daftar Nilai
-
-| No     | Nama           | Tugas 1   |
-| ------- | -------------- | --- |
-| 1 | Yadi Mulyadi | 85   |
-| 2 | Ardini Yuanita Lubis | 0   |
-
 # Pendahuluan
 
 Untuk perkuliahan yang harus dipersiapkan terdiri dari:
@@ -78,3 +51,31 @@ cat ~/.ssh/id_rsa.pub
 ```
 
 jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global git di bagian selanjutnya dan tambahkan kunci publik ke profil github Anda.
+
+## Jadwal Kuliah
+
+- Jumat Pukul 19:00 - 20:00
+- Sabtu Pukul 09:00 - 11:00
+
+# Data Mahasiswa
+
+## Absensi Kehadiran
+| PART     | Hari/Tgl   | Nama           | Kehadiran  |
+| -------| -------|-------------- | --- |
+| 1 | Jumat, 10/03/23  | Yadi Mulyadi | Hadir  |
+|  | Jumat, 10/03/23  | Ardini Yuanita Lubis | Izin  |
+| 2 | Sabtu, 11/03/23  | Yadi Mulyadi | Hadir  |
+|  | Sabtu, 11/03/23 | Ardini Yuanita Lubis | Hadir  |
+| 3 | Jumat, 17/03/23  | Yadi Mulyadi | -  |
+|  | Jumat, 17/03/23  | Ardini Yuanita Lubis | -  |
+| 4 | Sabtu, 18/03/23  | Yadi Mulyadi | -  |
+|  | Sabtu, 18/03/23  | Ardini Yuanita Lubis | -  |
+
+## Daftar Nilai
+
+| No     | Nama           | Tugas 1   |
+| ------- | -------------- | --- |
+| 1 | Yadi Mulyadi | 85   |
+| 2 | Ardini Yuanita Lubis | 0   |
+
+
