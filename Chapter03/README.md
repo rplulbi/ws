@@ -37,3 +37,9 @@ https://alexwohlbruck.github.io/cat-facts/docs/
 https://github.com/public-apis/public-apis
 https://gorest.co.in/
 https://gorest.co.in/public/v2/users
+
+
+## Bukti Kehadiran
+![image](https://user-images.githubusercontent.com/15622730/225915382-61de3e17-4b2b-444d-b52a-fca9640e5579.png)
+![image](https://user-images.githubusercontent.com/15622730/225915529-9692ef8b-7f00-4125-b826-e91f840be8a3.png)
+
