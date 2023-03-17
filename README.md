@@ -16,16 +16,18 @@ Tugas, Semua Ada disini, upload ya, iya....
 # Data Mahasiswa
 
 ## Absensi Kehadiran
-| PART     | Hari/Tgl          | NPM     | Nama           | Kehadiran  |
+| PART     | Hari/Tgl   | Nama           | Kehadiran  |
 | -------| -------| ------- | -------------- | --- |
-| 1 | Jumat, 10/03/23 | Isi NPM | Yadi Mulyadi | Hadir  |
-|  | Jumat, 10/03/23 | Isi NPM | Ardini Yuanita Lubis | Izin  |
-| 2 | Sabtu, 11/03/23 | Isi NPM | Yadi Mulyadi | Hadir  |
-|  | Sabtu, 11/03/23 | Isi NPM | Ardini Yuanita Lubis | Hadir  |
+| 1 | Jumat, 10/03/23  | Yadi Mulyadi | Hadir  |
+|  | Jumat, 10/03/23  | Ardini Yuanita Lubis | Izin  |
+| 2 | Jumat, 11/03/23  | Yadi Mulyadi | Hadir  |
+|  | Sabtu, 11/03/23 | Ardini Yuanita Lubis | Hadir  |
+| 3 | Jumat, 17/03/23  | Yadi Mulyadi | -  |
+|  | Sabtu, 18/03/23  | Ardini Yuanita Lubis | -  |
 
 ## Daftar Nilai
 
-| NPM     | Nama           | 1   |
+| NPM     | Nama           | Tugas 1   |
 | ------- | -------------- | --- |
 | ISI NPM | Yadi Mulyadi | 0   |
 | ISI NPM | Ardini Yuanita Lubis | 0   |
