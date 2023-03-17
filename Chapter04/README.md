@@ -43,35 +43,35 @@ install plugin live server
 ![image](https://user-images.githubusercontent.com/15622730/225922088-3f53696e-7b02-4c01-9705-dbfe040b9745.png)
 
 6. Isi dari script test.js contoh :
-    ```js
+   ```js
     var myHeaders = new Headers();
-myHeaders.append("Cookie", "connect.sid=s%3AMsnp_KW3uPWTf6gN4GDNl7XAoOShdRL2.VK05aaDbN1FeG%2BScGHtOuxENv5s2ABoZZzLpqN%2FUbZs");
+    myHeaders.append("Cookie", "connect.sid=s%3AMsnp_KW3uPWTf6gN4GDNl7XAoOShdRL2.VK05aaDbN1FeG%2BScGHtOuxENv5s2ABoZZzLpqN%2FUbZs");
 
-var requestOptions = {
-  method: 'GET',
-  headers: myHeaders,
-  redirect: 'follow'
-};
+    var requestOptions = {
+      method: 'GET',
+      headers: myHeaders,
+      redirect: 'follow'
+    };
 
-hasil=""
+    hasil=""
 
-fetch("https://cat-fact.herokuapp.com/facts", requestOptions)
-  .then(response => response.text())
-  .then(result => tampilkan(result))
-  .catch(error => console.log('error', error));
+    fetch("https://cat-fact.herokuapp.com/facts", requestOptions)
+      .then(response => response.text())
+      .then(result => tampilkan(result))
+      .catch(error => console.log('error', error));
 
-function tampilkan(result){
-  console.log(result);
-  hasil=JSON.parse(result);
+    function tampilkan(result){
+      console.log(result);
+      hasil=JSON.parse(result);
 
-  document.getElementById("nama").innerHTML(result);
-}
-
+      //document.getElementById("nama").innerHTML(result);
+    }
     ```
     
     akan terlihat variabel hasil di console log
     
-![image](https://user-images.githubusercontent.com/15622730/225922649-e45e3e0f-3214-4698-81be-1976de9f135a.png)    
+    ![image](https://user-images.githubusercontent.com/15622730/225922649-e45e3e0f-3214-4698-81be-1976de9f135a.png)    
+    
     untuk akses variabel global hasil kita pakai console log
     
     ![image](https://user-images.githubusercontent.com/15622730/225923912-ad48cb50-168f-4aca-9df2-7bc29dd0b360.png)
@@ -79,6 +79,7 @@ function tampilkan(result){
     kemudian tambahkan ramuan looping untuk mengeluarkan semuanya
     
     ![image](https://user-images.githubusercontent.com/11188109/218428781-5b8a7467-b027-48e6-aaf2-8437be0ec8c8.png)
+    
 
 ## Tugas
 
