@@ -1,5 +1,6 @@
 ## Persiapan Praktikum Web Service
 ![image](https://user-images.githubusercontent.com/15622730/226084371-3929f87a-5c11-4292-9445-811625ccbef4.png)
+![image](https://user-images.githubusercontent.com/15622730/226086551-73076f2e-d32c-4d1c-b304-d665c8826a52.png)
 
 - Instal Golang
 - Instal Postman
