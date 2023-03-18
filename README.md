@@ -76,6 +76,6 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 | No     | Nama           | Tugas 1   |
 | ------- | -------------- | --- |
 | 1 | Yadi Mulyadi | 85   |
-| 2 | Ardini Yuanita Lubis | 0   |
+| 2 | Ardini Yuanita Lubis | 80   |
 
 
