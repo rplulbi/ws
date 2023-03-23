@@ -1,5 +1,6 @@
 ## Persiapan Praktikum Web Service
 ![image](https://user-images.githubusercontent.com/15622730/226084371-3929f87a-5c11-4292-9445-811625ccbef4.png)
+![image](https://user-images.githubusercontent.com/15622730/226086551-73076f2e-d32c-4d1c-b304-d665c8826a52.png)
 
 - Instal Golang
 - Instal Postman
@@ -84,11 +85,11 @@ install plugin live server
 
 ## Tugas
 
-1. Buat folder NPM di dalam folder site di dalam folder chapter04. Pilih Public API
-2. Ada dua file yang dibuat yaitu index.html dan asal.js. 
+1. Buat folder NPM_NAMA di dalam folder site di dalam folder chapter04. Pilih Public API
+2. Ada dua file yang dibuat yaitu index.html dan asal.js. (nama JS nya bebas)
 3. Buat html bisa membaca semua data dari API, pastikan setiap orang berbeda, tidak boleh sama API nya.
     ![image](https://user-images.githubusercontent.com/11188109/218429415-dc895212-8982-4d73-9010-32cf5e72906f.png)
-4. Pull Request Dengan Subjek : Tugas_Nama, 
+4. Pull Request Dengan Subjek : Tugas_Chapter04_Nama 
 
 
 
