@@ -46,7 +46,6 @@ Disini kita akan melakukan request dengan menggunakan javascript fetch.
 - Lanjutkan dengan menekan tombol Skip.
   ![image](https://user-images.githubusercontent.com/15622730/221463630-bd85c35b-75f5-497b-879c-f4c8749cdc06.png)
 - Klik New HTTP / Webhook REquest
-  ![image](https://user-images.githubusercontent.com/15622730/221463704-17115b90-e38b-4a2a-bcd4-935119c0eefa.png)
 - Pilih Event Data : Raw REquest, HTTP Response : 200 OK . Kemudian klik Save and Continue
   ![image](https://user-images.githubusercontent.com/11188109/220201352-08e86d50-0b57-4bb9-98f5-b6ff3d09d420.png)
 - Akan keluar unique URL untuk endpoint : https://eogm9v38644wi49.m.pipedream.net . Kemudian kita coba dengan postman dahulu
