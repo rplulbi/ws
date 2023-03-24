@@ -59,9 +59,8 @@ Disini kita akan membuka Postman untuk melakukan testing endpoint dahulu, dengan
 - Method POST Headers kita isi dengan Key : Login , Value : Bebas. Pada bagian body isi dengan data json .Kemudian klik Send
   ![image](https://user-images.githubusercontent.com/15622730/221464077-bd145dde-fd1c-422d-aade-9d1fe18f8452.png)
   ![image](https://user-images.githubusercontent.com/15622730/221464677-6b2f43b3-0e6c-4898-92d9-a2246b0b062d.png)
-
-![image](https://user-images.githubusercontent.com/11188109/220203247-7803df47-029c-4bd9-9233-ef2540d9bca7.png)
-
+  ![image](https://user-images.githubusercontent.com/15622730/227659176-723cd798-fa6b-4779-b9ad-d6934d854628.png)
+  
 - Dashboard Pipedream akan muncul 1 New Event, kita buka event tersebut.
   ![image](https://user-images.githubusercontent.com/11188109/220201839-cf090239-88eb-4506-8d4c-a0e57b68b4f6.png)
   ![image](https://user-images.githubusercontent.com/11188109/220201921-6e223896-90cf-4442-b242-7eba8b433aab.png)
