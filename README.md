@@ -68,14 +68,14 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 |  | Sabtu, 11/03/23 | Ardini Yuanita Lubis | Hadir  |
 | 3 | Jumat, 17/03/23  | Yadi Mulyadi | Hadir  |
 |  | Jumat, 17/03/23  | Ardini Yuanita Lubis | Hadir  |
-| 4 | Sabtu, 18/03/23  | Yadi Mulyadi | -  |
-|  | Sabtu, 18/03/23  | Ardini Yuanita Lubis | -  |
+| 4 | Sabtu, 18/03/23  | Yadi Mulyadi | Hadir  |
+|  | Sabtu, 18/03/23  | Ardini Yuanita Lubis |Hadir |
 
 ## Daftar Nilai
 
 | No     | Nama           | Tugas 1   |
 | ------- | -------------- | --- |
 | 1 | Yadi Mulyadi | 85   |
-| 2 | Ardini Yuanita Lubis | 0   |
+| 2 | Ardini Yuanita Lubis | 80   |
 
 
