@@ -70,23 +70,29 @@ Disini kita akan membuka Postman untuk melakukan testing endpoint dahulu, dengan
   ![image](https://user-images.githubusercontent.com/15622730/227659720-4aa97a82-b4d1-47bf-b799-df083fd995cd.png)
 
  ```javascript
-var myHeaders = new Headers();
-myHeaders.append("Login", "nyobalogin");
+  var myHeaders = new Headers();
+  myHeaders.append("Login", "rollygantengsekali");
+  myHeaders.append("Content-Type", "application/json");
 
-var raw = "";
+  var raw = JSON.stringify({
+    "uuid": "sadsadsad",
+    "phonenumber": "6281312000300",
+    "delay": 1
+  });
 
-var requestOptions = {
-  method: 'POST',
-  headers: myHeaders,
-  body: raw,
-  redirect: 'follow'
-};
+  var requestOptions = {
+    method: 'POST',
+    headers: myHeaders,
+    body: raw,
+    redirect: 'follow'
+  };
 
-fetch("https://eod76hi54g2t8u7.m.pipedream.net", requestOptions)
-  .then(response => response.text())
-  .then(result => console.log(result))
-  .catch(error => console.log('error', error));
+  fetch("https://eol0j1lmdtbpzp.m.pipedream.net", requestOptions)
+    .then(response => response.text())
+    .then(result => console.log(result))
+    .catch(error => console.log('error', error));
   ```
+
 
 
 ### Membuat Form Pendaftaran
