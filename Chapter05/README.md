@@ -49,8 +49,8 @@ Disini kita akan melakukan request dengan menggunakan javascript fetch.
  ![image](https://user-images.githubusercontent.com/15622730/227658570-264476fa-11e8-4224-86db-f8fb8d3061f5.png)
 - Pilih Event Data : Raw REquest, HTTP Response : 200 OK . Kemudian klik Save and Continue
   ![image](https://user-images.githubusercontent.com/11188109/220201352-08e86d50-0b57-4bb9-98f5-b6ff3d09d420.png)
-- Akan keluar unique URL untuk endpoint : https://eogm9v38644wi49.m.pipedream.net . Kemudian kita coba dengan postman dahulu
-  ![image](https://user-images.githubusercontent.com/15622730/221464040-280cc239-a439-49f7-9b53-7fb1d650c787.png)
+- Akan keluar unique URL untuk endpoint : https://eorb8grusoo4rwb.m.pipedream.net . Kemudian kita coba dengan postman dahulu
+  ![image](https://user-images.githubusercontent.com/15622730/227658797-44d47c71-ac0a-41cc-8274-f40f950b28b6.png)
 
 ### Melakukan Testing Endpoint
 
