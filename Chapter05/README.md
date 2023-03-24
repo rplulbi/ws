@@ -189,7 +189,7 @@ Pasti merasa aneh bukan setelah menekan tombol, tapi tampilan tidak berubah sama
 ## Kerjakan
 
 * Buatlah form sign up yang melakukan POST ke pipedream.com ketika klik button.
-* Buat Folder NPM didalam Chapter05/Tugas yang berisi 2 file minimal js dan html, dengan nama index.html, croot.js. Boleh menambahkan file css atau favicon.
+* Buat Folder NPM didalam Chapter05/Tugas yang berisi 2 file minimal js dan html, dengan nama index.html, test.js. Boleh menambahkan file css atau favicon.
 * file test.js minimal berisi 3 fungsi, tidak boleh ada kode js diluar dari fungsi, semua harus masuk ke dalam fungsi js.
 * Form dibangun dengan menggunakan CSS tailwind, desain html tidak boleh sama, harus berbeda satu sama lain.
 * Pull Request dengan memasukan nama di folder Chapter05/Tugas, dengan deskripsi disertakan di bawah ini.
