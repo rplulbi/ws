@@ -102,11 +102,10 @@ fetch("https://eorb8grusoo4rwb.m.pipedream.net", requestOptions)
   ![image](https://user-images.githubusercontent.com/11188109/220205296-cdc9453b-58dd-4727-9d77-c5c250d3bb00.png)
   ![image](https://user-images.githubusercontent.com/11188109/220205510-205c1381-073b-451f-b29c-ede13072c333.png)
 - Buat file js kita masukkan dahulu javascript yang didapatkan dari postman ke js tersebut, kemudian panggil pada bagian bawah sebelum tag penutup body
-
-  ![image](https://user-images.githubusercontent.com/11188109/220205858-d311831a-d9d6-4cad-b8ea-94dca460121c.png)
+  ![image](https://user-images.githubusercontent.com/15622730/227661615-1805011e-af9f-4838-892a-42eaab2a64d9.png)
 
   ```html
-  <script src="test.js"></script>
+  <script src="./test.js"></script>
   ```
 
 ### Membuat Fungsi Javascript
