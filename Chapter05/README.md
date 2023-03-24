@@ -69,8 +69,8 @@ Disini kita akan membuka Postman untuk melakukan testing endpoint dahulu, dengan
 - Simpan kode javascript yang dibuat oleh postman dengan menekan tanda </> dibagian pojok kanan atas, kemudian pilih javascipt - Fetch
   ![image](https://user-images.githubusercontent.com/15622730/227659720-4aa97a82-b4d1-47bf-b799-df083fd995cd.png)
 
-  ```javascript
-  var myHeaders = new Headers();
+ ```javascript
+var myHeaders = new Headers();
 myHeaders.append("Login", "nyobalogin");
 
 var raw = "";
@@ -87,6 +87,7 @@ fetch("https://eod76hi54g2t8u7.m.pipedream.net", requestOptions)
   .then(result => console.log(result))
   .catch(error => console.log('error', error));
   ```
+
 
 ### Membuat Form Pendaftaran
 
