@@ -106,7 +106,7 @@ fetch("https://eorb8grusoo4rwb.m.pipedream.net", requestOptions)
   ![image](https://user-images.githubusercontent.com/11188109/220205858-d311831a-d9d6-4cad-b8ea-94dca460121c.png)
 
   ```html
-  <script src="croot.js"></script>
+  <script src="test.js"></script>
   ```
 
 ### Membuat Fungsi Javascript
@@ -118,7 +118,7 @@ Pada bagian ini kita akan membuat fungsi-fungsi di javascript untuk mengirimkan 
    ```javascript
    function PostSignUp(namadepan, namabelakang, email, password) {
      var myHeaders = new Headers();
-     myHeaders.append("Login", "rollygantengsekali");
+     myHeaders.append("Login", "ronitest");
      myHeaders.append("Content-Type", "application/json");
 
      var raw = JSON.stringify({
@@ -183,4 +183,16 @@ Pasti merasa aneh bukan setelah menekan tombol, tapi tampilan tidak berubah sama
   ![image](https://user-images.githubusercontent.com/11188109/220211123-eb372a58-7507-4bd8-b54f-2f18f50d5dd9.png)
 - Kita ujicoba dengan mengisi form dan klik tombol submit, maka form kita sudah berhasil.
   ![image](https://user-images.githubusercontent.com/11188109/220211272-70eaa594-504c-40f9-9b96-633bf9f9e676.png)
-- Setting pages pilih deployment from branch pilih main. Maka form kita bisa diakses dari menjadi github pages. Alamat github pages biasanya sub domain dari github.io. Kita juga bisa menggunakan custom domain kita sendiri, Contoh : https://universitas.bukupedia.co.id/ws/Chapter02/A/NPM/
+- Setting pages pilih deployment from branch pilih main. Maka form kita bisa diakses dari menjadi github pages. Alamat github pages biasanya sub domain dari github.io. Kita juga bisa menggunakan custom domain kita sendiri
+
+
+## Kerjakan
+
+* Buatlah form sign up yang melakukan POST ke pipedream.com ketika klik button.
+* Buat Folder NPM didalam Chapter05/Tugas yang berisi 2 file minimal js dan html, dengan nama index.html, croot.js. Boleh menambahkan file css atau favicon.
+* file test.js minimal berisi 3 fungsi, tidak boleh ada kode js diluar dari fungsi, semua harus masuk ke dalam fungsi js.
+* Form dibangun dengan menggunakan CSS tailwind, desain html tidak boleh sama, harus berbeda satu sama lain.
+* Pull Request dengan memasukan nama di folder Chapter05/Tugas, dengan deskripsi disertakan di bawah ini.
+* Sertakan skrinsutan dari live server aplikasi dan pipedream.com
+* Sertakan link Github Pages Sudah jalan di repo masing-masing. kode program maksimal nilai 60 poin.
+
