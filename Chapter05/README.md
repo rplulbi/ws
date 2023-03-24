@@ -71,22 +71,26 @@ Disini kita akan membuka Postman untuk melakukan testing endpoint dahulu, dengan
 
  ```javascript
   var myHeaders = new Headers();
-  myHeaders.append("Login", "rollygantengsekali");
-  myHeaders.append("Content-Type", "application/json");
+myHeaders.append("login", "ronitest");
 
-  var raw = JSON.stringify({
-    "uuid": "sadsadsad",
-    "phonenumber": "6281312000300",
-    "delay": 1
-  });
+var raw = "";
 
-  var requestOptions = {
-    method: 'POST',
-    headers: myHeaders,
-    body: raw,
-    redirect: 'follow'
-  };
+var requestOptions = {
+  method: 'POST',
+  headers: myHeaders,
+  body: raw,
+  redirect: 'follow'
+};
 
+fetch("https://eorb8grusoo4rwb.m.pipedream.net", requestOptions)
+  .then(response => response.text())
+  .then(result => console.log(result))
+  .catch(error => console.log('error', error));
+  
+  
+  
+  
+  
   fetch("https://eol0j1lmdtbpzp.m.pipedream.net", requestOptions)
     .then(response => response.text())
     .then(result => console.log(result))
