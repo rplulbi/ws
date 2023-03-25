@@ -8,4 +8,8 @@
 * Strong and statically typed
 * Fast Compile Time
 * Automatic Garbage Collection
-* 
+
+### Latihan Golang
+* Buka link disini https://go.dev/play/
+* ![image](https://user-images.githubusercontent.com/15622730/227665912-414622b7-358b-483f-b0ee-fe3248376043.png)
+
