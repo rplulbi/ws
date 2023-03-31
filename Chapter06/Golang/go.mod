@@ -1,3 +1,3 @@
-module github.com/rpl/ulbi/Chapter06/Golang
+module github.com/rplulbi/ws
 
 go 1.20
