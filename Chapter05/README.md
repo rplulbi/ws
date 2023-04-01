@@ -46,11 +46,11 @@ Disini kita akan melakukan request dengan menggunakan javascript fetch.
 - Lanjutkan dengan menekan tombol Skip.
   ![image](https://user-images.githubusercontent.com/15622730/221463630-bd85c35b-75f5-497b-879c-f4c8749cdc06.png)
 - Klik New HTTP / Webhook REquest
-  ![image](https://user-images.githubusercontent.com/15622730/221463704-17115b90-e38b-4a2a-bcd4-935119c0eefa.png)
+ ![image](https://user-images.githubusercontent.com/15622730/227658570-264476fa-11e8-4224-86db-f8fb8d3061f5.png)
 - Pilih Event Data : Raw REquest, HTTP Response : 200 OK . Kemudian klik Save and Continue
   ![image](https://user-images.githubusercontent.com/11188109/220201352-08e86d50-0b57-4bb9-98f5-b6ff3d09d420.png)
-- Akan keluar unique URL untuk endpoint : https://eogm9v38644wi49.m.pipedream.net . Kemudian kita coba dengan postman dahulu
-  ![image](https://user-images.githubusercontent.com/15622730/221464040-280cc239-a439-49f7-9b53-7fb1d650c787.png)
+- Akan keluar unique URL untuk endpoint : https://eorb8grusoo4rwb.m.pipedream.net . Kemudian kita coba dengan postman dahulu
+  ![image](https://user-images.githubusercontent.com/15622730/227658797-44d47c71-ac0a-41cc-8274-f40f950b28b6.png)
 
 ### Melakukan Testing Endpoint
 
@@ -59,40 +59,37 @@ Disini kita akan membuka Postman untuk melakukan testing endpoint dahulu, dengan
 - Method POST Headers kita isi dengan Key : Login , Value : Bebas. Pada bagian body isi dengan data json .Kemudian klik Send
   ![image](https://user-images.githubusercontent.com/15622730/221464077-bd145dde-fd1c-422d-aade-9d1fe18f8452.png)
   ![image](https://user-images.githubusercontent.com/15622730/221464677-6b2f43b3-0e6c-4898-92d9-a2246b0b062d.png)
-
-![image](https://user-images.githubusercontent.com/11188109/220203247-7803df47-029c-4bd9-9233-ef2540d9bca7.png)
-
+  ![image](https://user-images.githubusercontent.com/15622730/227659176-723cd798-fa6b-4779-b9ad-d6934d854628.png)
+  
 - Dashboard Pipedream akan muncul 1 New Event, kita buka event tersebut.
   ![image](https://user-images.githubusercontent.com/11188109/220201839-cf090239-88eb-4506-8d4c-a0e57b68b4f6.png)
   ![image](https://user-images.githubusercontent.com/11188109/220201921-6e223896-90cf-4442-b242-7eba8b433aab.png)
 - Disana akan terlihat pada bagian headers ada Login yang kita masukkan dan pada bagian body ada json yang kita masukkan ke postman. Artinya endpoint dan http request bekerja dengan baik untuk menangkap header dan body yang dikirimkan.
-  ![image](https://user-images.githubusercontent.com/11188109/220203550-fc55f7f9-886c-4fdf-9beb-3fcf884b94f0.png)
+  ![image](https://user-images.githubusercontent.com/15622730/227659668-73df7823-e90e-4a1e-9b0d-dfe87c97e57a.png)
 - Simpan kode javascript yang dibuat oleh postman dengan menekan tanda </> dibagian pojok kanan atas, kemudian pilih javascipt - Fetch
-  ![image](https://user-images.githubusercontent.com/11188109/220203396-5b64b9f1-b0a9-41b4-853e-6de1addb0767.png)
+  ![image](https://user-images.githubusercontent.com/15622730/227659720-4aa97a82-b4d1-47bf-b799-df083fd995cd.png)
 
-  ```javascript
+ ```javascript
   var myHeaders = new Headers();
-  myHeaders.append("Login", "rollygantengsekali");
-  myHeaders.append("Content-Type", "application/json");
+myHeaders.append("login", "ronitest");
 
-  var raw = JSON.stringify({
-    uuid: "sadsadsad",
-    phonenumber: "6281312000300",
-    delay: 1,
-  });
+var raw = "";
 
-  var requestOptions = {
-    method: "POST",
-    headers: myHeaders,
-    body: raw,
-    redirect: "follow",
-  };
+var requestOptions = {
+  method: 'POST',
+  headers: myHeaders,
+  body: raw,
+  redirect: 'follow'
+};
 
-  fetch("https://eol0j1lmdtbpzp.m.pipedream.net", requestOptions)
-    .then((response) => response.text())
-    .then((result) => console.log(result))
-    .catch((error) => console.log("error", error));
+fetch("https://eorb8grusoo4rwb.m.pipedream.net", requestOptions)
+  .then(response => response.text())
+  .then(result => console.log(result))
+  .catch(error => console.log('error', error));
+  
   ```
+
+
 
 ### Membuat Form Pendaftaran
 
@@ -106,10 +103,11 @@ Disini kita akan membuka Postman untuk melakukan testing endpoint dahulu, dengan
   ![image](https://user-images.githubusercontent.com/11188109/220205510-205c1381-073b-451f-b29c-ede13072c333.png)
 - Buat file js kita masukkan dahulu javascript yang didapatkan dari postman ke js tersebut, kemudian panggil pada bagian bawah sebelum tag penutup body
 
-  ![image](https://user-images.githubusercontent.com/11188109/220205858-d311831a-d9d6-4cad-b8ea-94dca460121c.png)
+
+![image](https://user-images.githubusercontent.com/15622730/227661615-1805011e-af9f-4838-892a-42eaab2a64d9.png)
 
   ```html
-  <script src="croot.js"></script>
+  <script src="./test.js"></script>
   ```
 
 ### Membuat Fungsi Javascript
@@ -121,7 +119,7 @@ Pada bagian ini kita akan membuat fungsi-fungsi di javascript untuk mengirimkan 
    ```javascript
    function PostSignUp(namadepan, namabelakang, email, password) {
      var myHeaders = new Headers();
-     myHeaders.append("Login", "rollygantengsekali");
+     myHeaders.append("Login", "ronitest");
      myHeaders.append("Content-Type", "application/json");
 
      var raw = JSON.stringify({
@@ -161,8 +159,7 @@ Pada bagian ini kita akan membuat fungsi-fungsi di javascript untuk mengirimkan 
 
 3. Kita test dengan klik kanan Open with live server, kita isi form nya sambil inspect console lalu klik button yang kita buat. Terlihat dari console data success dikirim. kemudian kita lihat pada dashboard pipedream data sudah diterima dengan baik oleh endpoint baik itu header maupun body.
    ![image](https://user-images.githubusercontent.com/11188109/220209051-34a4982b-9a50-4e7f-8283-760948abfc15.png)
-   ![image](https://user-images.githubusercontent.com/11188109/220209136-5e2ec6fa-12c0-450f-b417-91b50cd4110a.png)
-   ![image](https://user-images.githubusercontent.com/11188109/220209218-73348bb6-6d29-47f5-8988-675b6c85eac0.png)
+
 
 ### Tambahan Estetika UX
 
@@ -186,4 +183,16 @@ Pasti merasa aneh bukan setelah menekan tombol, tapi tampilan tidak berubah sama
   ![image](https://user-images.githubusercontent.com/11188109/220211123-eb372a58-7507-4bd8-b54f-2f18f50d5dd9.png)
 - Kita ujicoba dengan mengisi form dan klik tombol submit, maka form kita sudah berhasil.
   ![image](https://user-images.githubusercontent.com/11188109/220211272-70eaa594-504c-40f9-9b96-633bf9f9e676.png)
-- Setting pages pilih deployment from branch pilih main. Maka form kita bisa diakses dari menjadi github pages. Alamat github pages biasanya sub domain dari github.io. Kita juga bisa menggunakan custom domain kita sendiri, Contoh : https://universitas.bukupedia.co.id/ws/Chapter02/A/NPM/
+- Setting pages pilih deployment from branch pilih main. Maka form kita bisa diakses dari menjadi github pages. Alamat github pages biasanya sub domain dari github.io. Kita juga bisa menggunakan custom domain kita sendiri
+
+
+## Kerjakan
+
+* Buatlah form sign up yang melakukan POST ke pipedream.com ketika klik button.
+* Buat Folder NPM didalam Chapter05/Tugas yang berisi 2 file minimal js dan html, dengan nama index.html, test.js. Boleh menambahkan file css atau favicon.
+* file test.js minimal berisi 3 fungsi, tidak boleh ada kode js diluar dari fungsi, semua harus masuk ke dalam fungsi js.
+* Form dibangun dengan menggunakan CSS tailwind, desain html tidak boleh sama, harus berbeda satu sama lain.
+* Pull Request dengan memasukan nama di folder Chapter05/Tugas, dengan deskripsi disertakan di bawah ini.
+* Sertakan skrinsutan dari live server aplikasi dan pipedream.com
+* Sertakan link Github Pages Sudah jalan di repo masing-masing. kode program maksimal nilai 60 poin.
+
