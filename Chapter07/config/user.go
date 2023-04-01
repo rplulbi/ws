@@ -9,7 +9,7 @@ import (
 
 	"encoding/json"
 
-	config "github.com/rplulbi/ws/chapter07/config"
+	config "github.com/rplulbi/ws/Chapter07/config"
 	"golang.org/x/crypto/bcrypt"
 )
 
