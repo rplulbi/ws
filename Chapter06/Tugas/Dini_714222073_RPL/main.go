@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Hello World...Golang in Web Service")
+	fmt.Println("Hello World...This is the Fisrt Golang Program")
 	
 }
