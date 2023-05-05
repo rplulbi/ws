@@ -79,9 +79,9 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 
 ## Daftar Nilai
 
-| No     | Nama           | Tugas 1   |
-| ------- | -------------- | --- |
-| 1 | Yadi Mulyadi | 85   |
-| 2 | Ardini Yuanita Lubis | 80   |
+| No     | Nama           | Tugas 1   | UTS   |
+| ------- | -------------- | --- | --- |
+| 1 | Yadi Mulyadi | 85   | 0 |
+| 2 | Ardini Yuanita Lubis | 80   | 85 |
 
 
