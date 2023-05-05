@@ -1,7 +1,9 @@
 # Pendahuluan tentang Web Socket
 Lihat pada Link Dibawah ini: <br>
 [Kampus Digital Masa Gitu](https://www.roniandarsyah.com/2023/05/apa-itu-websocket-dan-bagaimana-cara.html) <br>
-
+## Daftar Hadir
+![image](https://user-images.githubusercontent.com/15622730/236472310-3fee24e3-e380-447e-ae33-cbf7ef728f8b.png)
+![image](https://user-images.githubusercontent.com/15622730/236472357-8fefe420-eb69-4cc6-84c0-6c2fca207834.png)
 
 # Web Socket: Chatting App
 
