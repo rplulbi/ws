@@ -53,4 +53,69 @@ Kode program di atas akan membuat aplikasi Go Fiber dengan rute "/" yang akan me
 - Jalankan perintah go run main.go untuk menjalankan aplikasi Anda.
 - Buka browser menggunakan live server untuk mengakses aplikasi Hello World Anda.
 
+Membangun proyek Go Fiber dan JavaScript dapat menjadi kombinasi yang sangat kuat dan berguna untuk mengembangkan aplikasi web yang dinamis dan responsif. Berikut adalah langkah-langkah dasar untuk membangun proyek Go Fiber dan JavaScript:
+- Buat direktori baru untuk proyek Anda. Misalnya, Anda bisa membuat direktori bernama "my-project".
+- Di dalam direktori "my-project", buat file dengan nama "main.go". File ini akan berisi kode program Go Fiber Anda.
+- Di dalam direktori "my-project", buat direktori baru dengan nama "public". Direktori ini akan berisi file JavaScript, CSS, dan aset lainnya.
+- Di dalam direktori "public", buat file dengan nama "index.html". File ini akan menjadi halaman utama aplikasi Anda.
+- Buka file "main.go" menggunakan editor teks atau IDE Go yang Anda gunakan.
+- Tulis kode program Go Fiber Anda di dalam file "main.go". Misalnya, kode program Go Fiber untuk melayani file statis di direktori "public" adalah sebagai berikut:
+
+```go
+package main
+
+import "github.com/gofiber/fiber/v2"
+
+func main() {
+  app := fiber.New()
+
+  app.Static("/", "./public")
+
+  app.Listen(":3000")
+}
+```
+Kode program di atas akan membuat aplikasi Go Fiber yang akan melayani file statis dari direktori "public" di live server.
+- Simpan perubahan pada file "main.go" dan tutup editor teks Anda.
+- Buka terminal atau command prompt dan navigasikan ke direktori "my-project".
+- Jalankan perintah go run main.go untuk menjalankan aplikasi Go Fiber Anda.
+- Buka browser Anda dan ketikkan alamat http://localhost:3000 untuk mengakses aplikasi Anda. Halaman utama aplikasi Anda, yaitu file "index.html" di direktori "public", sekarang harus ditampilkan di browser Anda.
+- Tulis kode program JavaScript Anda di dalam file "index.html". Misalnya, kode program JavaScript untuk mengambil data dari API dan menampilkannya di halaman adalah sebagai berikut:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Project</title>
+  </head>
+  <body>
+    <div id="data"></div>
+    <script>
+      fetch('/api/data')
+        .then(response => response.json())
+        .then(data => {
+          const dataEl = document.getElementById('data')
+          dataEl.innerHTML = JSON.stringify(data)
+        })
+    </script>
+  </body>
+</html>
+```
+
+Kode program di atas akan mengambil data dari API di live server dan tambahkan /api/data dan menampilkannya di elemen div dengan id "data" di halaman.
+
+Simpan perubahan pada file "index.html" dan tutup editor teks Anda.
+
+Buka browser Anda dan jalankan liver servernya untuk mengakses aplikasi Anda. Sekarang, halaman utama aplikasi Anda harus menampilkan data dari API yang diambil dengan JavaScript.
+
+Dengan mengikuti langkah-langkah di atas, Anda telah berhasil membangun proyek Go Fiber dan JavaScript yang sederhana. Tentunya, masih banyak lagi hal-hal yang dapat Anda lakukan dengan proyek ini, seperti menambahkan rute API dan mengembangkan logika
+
+
+
+
+
+
+
+
+
+
 
