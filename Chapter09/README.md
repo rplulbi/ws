@@ -51,6 +51,6 @@ Kode program di atas akan membuat aplikasi Go Fiber dengan rute "/" yang akan me
 - Simpan perubahan pada file "main.go" dan tutup editor teks Anda.
 - Buka terminal atau command prompt dan navigasikan ke direktori "my-app".
 - Jalankan perintah go run main.go untuk menjalankan aplikasi Anda.
-- Buka browser Anda dan ketikkan alamat http://localhost:3000 untuk mengakses aplikasi Hello World Anda.
+- Buka browser menggunakan live server untuk mengakses aplikasi Hello World Anda.
 
 
