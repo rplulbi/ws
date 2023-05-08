@@ -1,3 +1,7 @@
-module Chapter06TugasDini_714222073_RPL
+module github.com/gofiber/fiber
 
 go 1.20
+
+replace github.com/gofiber/fiber/v2 => github.com/gofiber/fiber/v2 v2.43.0
+
+replace github.com/gofiber/websocket/v2 => github.com/gofiber/websocket/v2 v2.1.4
