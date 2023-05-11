@@ -80,6 +80,8 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 |  | Selasa, 11/04/23 | Ardini Yuanita Lubis | Hadir |
 | 8 | Jumat, 05/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 05/05/23  | Ardini Yuanita Lubis |Hadir |
+| 9 | Sabtu, 05/05/23  | Yadi Mulyadi |  Hadir  |
+| Tugas Review Materi | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
 
 ## Daftar Nilai
 
