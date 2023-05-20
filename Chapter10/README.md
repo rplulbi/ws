@@ -1,12 +1,12 @@
 # A.30. Goroutine
 
-Goroutine mirip dengan thread, tapi sebenarnya bukan. Sebuah _native thread_ bisa berisikan sangat banyak goroutine. Mungkin lebih pas kalau goroutine disebut sebagai **mini thread**. Goroutine sangat ringan, hanya dibutuhkan sekitar **2kB** memori saja untuk satu buah goroutine. Eksekusi goroutine bersifat _asynchronous_, menjadikannya tidak saling tunggu dengan goroutine lain.
+Goroutine mirip dengan thread, tapi sebenarnya bukan. Sebuah *native thread* bisa berisikan sangat banyak goroutine. Mungkin lebih pas kalau goroutine disebut sebagai **mini thread**. Goroutine sangat ringan, hanya dibutuhkan sekitar **2kB** memori saja untuk satu buah goroutine. Eksekusi goroutine bersifat *asynchronous*, menjadikannya tidak saling tunggu dengan goroutine lain.
 
 > Karena goroutine sangat ringan, maka eksekusi banyak goroutine bukan masalah. Akan tetapi jika jumlah goroutine sangat banyak sekali (contoh 1 juta goroutine dijalankan pada komputer dengan RAM terbatas), memang proses akan jauh lebih cepat selesai, tapi memory/RAM pasti bengkak.
 
-Goroutine merupakan salah satu bagian paling penting dalam _concurrent programming_ di Go. Salah satu yang membuat goroutine sangat istimewa adalah eksekusi-nya dijalankan di multi core processor. Kita bisa tentukan berapa banyak core yang aktif, makin banyak akan makin cepat.
+Goroutine merupakan salah satu bagian paling penting dalam *concurrent programming* di Go. Salah satu yang membuat goroutine sangat istimewa adalah eksekusi-nya dijalankan di multi core processor. Kita bisa tentukan berapa banyak core yang aktif, makin banyak akan makin cepat.
 
-Mulai chapter **A.29** ini hingga **A.34**, lalu dilanjut **A.56** dan **A.57**, kita akan membahas tentang fitur-fitur yang disediakan Go untuk kebutuhan _concurrent programming_.
+Mulai chapter **A.29** ini hingga **A.34**, lalu dilanjut **A.56** dan **A.57**, kita akan membahas tentang fitur-fitur yang disediakan Go untuk kebutuhan *concurrent programming*.
 
 > Concurrency atau konkurensi berbeda dengan paralel. Paralel adalah eksekusi banyak proses secara bersamaan. Sedangkan konkurensi adalah komposisi dari sebuah proses. Konkurensi merupakan struktur, sedangkan paralel adalah bagaimana eksekusinya berlangsung.
 
@@ -45,7 +45,8 @@ Pembuatan goroutine baru ditandai dengan keyword `go`. Contohnya pada statement 
 
 Fungsi `fmt.Scanln()` mengakibatkan proses jalannya aplikasi berhenti di baris itu (**blocking**) hingga user menekan tombol enter. Hal ini perlu dilakukan karena ada kemungkinan waktu selesainya eksekusi goroutine `print()` lebih lama dibanding waktu selesainya goroutine utama `main()`, mengingat bahwa keduanya sama-sama asnychronous. Jika itu terjadi, goroutine yang belum selesai secara paksa dihentikan prosesnya karena goroutine utama sudah selesai dijalankan.
 
-![Implementasi goroutine](images/A_goroutine_1_goroutine.png)
+### Impelemtasi Goroutine
+![image](https://github.com/rplulbi/ws/assets/15622730/8f81c039-0b9d-48b8-bb39-cb194d476161)
 
 Bisa dilihat di output, tulisan `"halo"` dan `"apa kabar"` bermunculan selang-seling. Ini disebabkan karena statement `print(5, "halo")` dijalankan sebagai goroutine baru, menjadikannya tidak saling tunggu dengan `print(5, "apa kabar")`.
 
@@ -59,7 +60,7 @@ Berikut adalah penjelasan tambahan tentang beberapa fungsi yang baru kita pelaja
 
 Fungsi ini digunakan untuk menentukan jumlah core atau processor yang digunakan dalam eksekusi program.
 
-Jumlah yang diinputkan secara otomatis akan disesuaikan dengan jumlah asli _logical processor_ yang ada. Jika jumlahnya lebih, maka dianggap menggunakan sejumlah prosesor yang ada.
+Jumlah yang diinputkan secara otomatis akan disesuaikan dengan jumlah asli *logical processor* yang ada. Jika jumlahnya lebih, maka dianggap menggunakan sejumlah prosesor yang ada.
 
 ## A.30.1.2. Penggunaan Fungsi `fmt.Scanln()`
 
@@ -88,5 +89,4 @@ Bisa dilihat pada kode di atas, untuk menampung inputan text `trafalgar d law`, 
 
 <div class="source-code-link">
     <div class="source-code-link-message">Source code praktek chapter ini tersedia di Github</div>
-    <a href="https://github.com/novalagung/dasarpemrogramangolang-example/tree/master/chapter-A.30-goroutine">https://github.com/novalagung/dasarpemrogramangolang-example/.../chapter-A.30...</a>
 </div>
