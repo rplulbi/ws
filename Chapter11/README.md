@@ -59,3 +59,9 @@ func createUserHandler(w http.ResponseWriter, r *http.Request) {
 Dalam contoh di atas, kami menggunakan package net/http untuk membuat server dan route handler. Aplikasi ini memiliki dua endpoint /users yang mendukung HTTP GET dan POST. Endpoint GET digunakan untuk mengambil daftar pengguna yang sudah ada, sedangkan endpoint POST digunakan untuk membuat pengguna baru.
 
 Pastikan Anda telah menginstal Go pada mesin Anda sebelum menjalankan contoh di atas. Anda dapat menjalankan aplikasi dengan menggunakan perintah go run pada terminal:
+
+```go
+go run namafile.go
+```
+
+Setelah menjalankan aplikasi, Anda dapat mengakses endpoint /users menggunakan Postman atau perangkat lunak sejenis untuk mengirimkan permintaan GET dan POST.
