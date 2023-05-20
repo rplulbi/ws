@@ -82,6 +82,14 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 |  | Jumat, 05/05/23  | Ardini Yuanita Lubis |Hadir |
 | 9 | Sabtu, 05/05/23  | Yadi Mulyadi |  Hadir  |
 | Tugas Review Materi | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
+| 8 | Jumat, 05/05/23  | Yadi Mulyadi | Tidak Hadir  |
+|  | Jumat, 05/05/23  | Ardini Yuanita Lubis |Hadir |
+| 9 | Sabtu, 05/05/23  | Yadi Mulyadi |  Hadir  |
+| Tugas Review Materi | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
+| 10 | Jumat, 19/05/23  | Yadi Mulyadi | Hadir  |
+|  Deskripsi TB| Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
+| 11 | Sabtu, 20/05/23  | Yadi Mulyadi |  Hadir  |
+| Project Base| Sabtu, 20/05/23  | Ardini Yuanita Lubis |Hadir |
 
 ## Daftar Nilai
 
