@@ -80,12 +80,14 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 |  | Selasa, 11/04/23 | Ardini Yuanita Lubis | Hadir |
 | 8 | Jumat, 05/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 05/05/23  | Ardini Yuanita Lubis |Hadir |
+| 9 | Sabtu, 05/05/23  | Yadi Mulyadi |  Hadir  |
+| Tugas Review Materi | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
 
 ## Daftar Nilai
 
 | No     | Nama           | Tugas 1   | Tugas 2   | Tugas 3   |UTS   |
 | ------- | -------------- | --- | --- | --- |--- |
 | 1 | Yadi Mulyadi | 85   | 80 |75 |0 |
-| 2 | Ardini Yuanita Lubis | 80   | 85 | 87 | 100 |
+| 2 | Ardini Yuanita Lubis | 80   | 85 | 87 | 90 |
 
 
