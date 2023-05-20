@@ -45,8 +45,6 @@ Pembuatan goroutine baru ditandai dengan keyword `go`. Contohnya pada statement 
 
 Fungsi `fmt.Scanln()` mengakibatkan proses jalannya aplikasi berhenti di baris itu (**blocking**) hingga user menekan tombol enter. Hal ini perlu dilakukan karena ada kemungkinan waktu selesainya eksekusi goroutine `print()` lebih lama dibanding waktu selesainya goroutine utama `main()`, mengingat bahwa keduanya sama-sama asnychronous. Jika itu terjadi, goroutine yang belum selesai secara paksa dihentikan prosesnya karena goroutine utama sudah selesai dijalankan.
 
-# <<<<<<< HEAD
-
 ### Impelemtasi Goroutine
 
 ![image](https://github.com/rplulbi/ws/assets/15622730/8f81c039-0b9d-48b8-bb39-cb194d476161)
@@ -54,8 +52,6 @@ Fungsi `fmt.Scanln()` mengakibatkan proses jalannya aplikasi berhenti di baris i
 Bisa dilihat di output, tulisan `"halo"` dan `"apa kabar"` bermunculan selang-seling. Ini disebabkan karena statement `print(5, "halo")` dijalankan sebagai goroutine baru, menjadikannya tidak saling tunggu dengan `print(5, "apa kabar")`.
 
 Pada gambar di atas, program dieksekusi 2 kali. Hasil eksekusi pertama berbeda dengan kedua, penyebabnya adalah karena kita menggunakan 2 prosesor. Goroutine mana yang dieksekusi terlebih dahulu tergantung kedua prosesor tersebut.
-
-> > > > > > > e515d0a0fcd77ae7e862cc6ff7b812a8d0b1b2dd
 
 ---
 
