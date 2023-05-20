@@ -9,6 +9,6 @@
 5. Buat database MongoDb dan koneksikan (min 1 tabel)
 6. Lakukan ujicoba penggunaan API pastikan sudah dapat berinteraksi (Uji di Postman/Pipedream/dll)
 7. Ambil API dan tampilkan pada Website
-8. terdapat CRUD pada setiap struct yang sudah dibuat (Input, Update, Delete)
+8. terdapat CRUD pada setiap struct yang sudah dibuat (Create, Read, Update, Delete)
 9. Pull Request ke folder TugasBesar
 10. Presentasikan (Nilai TB akan dijadikan nilai akhir - UAS)
