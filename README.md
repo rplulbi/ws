@@ -80,14 +80,14 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 |  | Selasa, 11/04/23 | Ardini Yuanita Lubis | Hadir |
 | 8 | Jumat, 05/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 05/05/23  | Ardini Yuanita Lubis |Hadir |
-| 9 | Sabtu, 05/05/23  | Yadi Mulyadi |  Hadir  |
-| Tugas Review Materi | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
+| 9 Tugas Review Materi | Sabtu, 05/05/23  | Yadi Mulyadi |  Hadir  |
+|  | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
 | 8 | Jumat, 05/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 05/05/23  | Ardini Yuanita Lubis |Hadir |
-| 9 | Sabtu, 05/05/23  | Yadi Mulyadi |  Tidak Hadir  |
-| Tugas Review Materi | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
-| 10 | Jumat, 19/05/23  | Yadi Mulyadi | Tidak Hadir  |
-|  Deskripsi TB| Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
+| 9 Tugas Review Materi| Sabtu, 05/05/23  | Yadi Mulyadi |  Tidak Hadir  |
+|  | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
+| 10 Deskripsi TB| Jumat, 19/05/23  | Yadi Mulyadi | Tidak Hadir  |
+|  | Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
 | 11 | Sabtu, 20/05/23  | Yadi Mulyadi |  Tidak Hadir  |
 | Project Base| Sabtu, 20/05/23  | Ardini Yuanita Lubis |Hadir |
 | 12 | Sabtu, 27/05/23  | Yadi Mulyadi | Tidak Hadir  |
