@@ -1,8 +1,10 @@
 # GRAPHQL
 
-GraphQL adalah bahasa kueri atau query language untuk mengambil dan memanipulasi data dari server. Ia memberikan antarmuka yang fleksibel dan efisien antara klien (seperti aplikasi frontend) dan server (backend) dalam pengembangan aplikasi.
+GraphQL https://graphql.org/ adalah bahasa kueri atau query language untuk mengambil dan memanipulasi data dari server. Ia memberikan antarmuka yang fleksibel dan efisien antara klien (seperti aplikasi frontend) dan server (backend) dalam pengembangan aplikasi.
 
 Dalam tradisi RESTful API, klien harus mengirimkan permintaan HTTP ke endpoint tertentu untuk mendapatkan data yang diinginkan. Biasanya, endpoint ini mengembalikan data dalam format JSON, dan seringkali klien menerima lebih banyak atau kurang dari data yang sebenarnya dibutuhkan.
+![image](https://github.com/rplulbi/ws/assets/15622730/b1ca17e3-ad02-4fe9-9995-09f6b094ad0a)
+
 
 Dalam GraphQL, klien dapat mengirimkan kueri tunggal yang secara spesifik menyebutkan data yang dibutuhkan dan strukturnya. Kueri ini dikirim ke endpoint GraphQL tunggal, dan server mengembalikan data yang tepat sesuai dengan kueri tersebut.
 
