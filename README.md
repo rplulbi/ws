@@ -73,7 +73,7 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 | 5   HTTP Header/Body Capture | Jumat, 24/03/23  | Yadi Mulyadi | Hadir  |
 | | Jumat, 24/03/23  | Ardini Yuanita Lubis | Hadir  |
 | 6 Quis GoCapture | Sabtu, 25/03/23  | Yadi Mulyadi | Hadir  |
- | Sabtu, 25/03/23  | Ardini Yuanita Lubis |Hadir |
+| | Sabtu, 25/03/23  | Ardini Yuanita Lubis |Hadir |
 | 7 Dependencies| Sabtu, 01/04/23  | Yadi Mulyadi | Hadir  |
 |  | Sabtu, 25/03/23  | Ardini Yuanita Lubis |Hadir |
 | UTS | Selasa, 11/04/23  | Yadi Mulyadi | Tidak Kumpul UTS|
@@ -86,7 +86,7 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 | | Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
 | 11 API GOLANGCRUD| Sabtu, 20/05/23  | Yadi Mulyadi |  Tidak Hadir  |
 | | Sabtu, 20/05/23  | Ardini Yuanita Lubis |Hadir |
-| 12 GRAPHQL MongoDB Sabtu, 27/05/23  | Yadi Mulyadi | Tidak Hadir  |
+| 12 GRAPHQL MongoDB Sabtu| 27/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
 | 13 Sidang PB(UAS) | Jumat, 02/06/23  | Yadi Mulyadi |  -  |
 |  | Jumat, 02/06/23   | Ardini Yuanita Lubis | - |
