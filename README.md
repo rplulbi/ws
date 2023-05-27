@@ -70,9 +70,9 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 |  | Jumat, 17/03/23  | Ardini Yuanita Lubis | Hadir  |
 | 4 | Sabtu, 18/03/23  | Yadi Mulyadi | Hadir  |
 |  | Sabtu, 18/03/23  | Ardini Yuanita Lubis |Hadir |
-| 5  Quis Tugas| Jumat, 24/03/23  | Yadi Mulyadi | Hadir  |
+| 5  Quis | Jumat, 24/03/23  | Yadi Mulyadi | Hadir  |
 | | Jumat, 24/03/23  | Ardini Yuanita Lubis | Hadir  |
-| 6 Quis Tugas| Sabtu, 25/03/23  | Yadi Mulyadi | Hadir  |
+| 6 Quis | Sabtu, 25/03/23  | Yadi Mulyadi | Hadir  |
 |  | Sabtu, 25/03/23  | Ardini Yuanita Lubis |Hadir |
 | 7 | Sabtu, 01/04/23  | Yadi Mulyadi | Hadir  |
 |  | Sabtu, 25/03/23  | Ardini Yuanita Lubis |Hadir |
@@ -80,17 +80,17 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 |  | Selasa, 11/04/23 | Ardini Yuanita Lubis | Hadir |
 | 8 | Jumat, 05/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 05/05/23  | Ardini Yuanita Lubis |Hadir |
-| 9 Tugas Review Materi | Sabtu, 05/05/23  | Yadi Mulyadi |  Hadir  |
+| 9 Tugas Materi | Sabtu, 05/05/23  | Yadi Mulyadi |  Hadir  |
 |  | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
 | 8 | Jumat, 05/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 05/05/23  | Ardini Yuanita Lubis |Hadir |
-| 9 Tugas Review Materi| Sabtu, 05/05/23  | Yadi Mulyadi |  Tidak Hadir  |
+| 9 Tugas Materi| Sabtu, 05/05/23  | Yadi Mulyadi |  Tidak Hadir  |
 |  | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
 | 10 Deskripsi TB| Jumat, 19/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
 | 11 Project Base| Sabtu, 20/05/23  | Yadi Mulyadi |  Tidak Hadir  |
 | | Sabtu, 20/05/23  | Ardini Yuanita Lubis |Hadir |
-| 12 Review Progres PB| Sabtu, 27/05/23  | Yadi Mulyadi | Tidak Hadir  |
+| 12 Progres PB| Sabtu, 27/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
 | 13 Sidang PB(UAS) | Jumat, 02/06/23  | Yadi Mulyadi |  -  |
 |  | Jumat, 02/06/23   | Ardini Yuanita Lubis | - |
