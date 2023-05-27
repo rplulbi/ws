@@ -1,4 +1,5 @@
 # GRAPHQL
+![image](https://github.com/rplulbi/ws/assets/15622730/79089053-ee26-425b-be89-017b9e56b28d)
 
 GraphQL https://graphql.org/ adalah bahasa kueri atau query language untuk mengambil dan memanipulasi data dari server. Ia memberikan antarmuka yang fleksibel dan efisien antara klien (seperti aplikasi frontend) dan server (backend) dalam pengembangan aplikasi.
 
