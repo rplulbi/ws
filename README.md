@@ -70,10 +70,10 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 |  | Jumat, 17/03/23  | Ardini Yuanita Lubis | Hadir  |
 | 4 | Sabtu, 18/03/23  | Yadi Mulyadi | Hadir  |
 |  | Sabtu, 18/03/23  | Ardini Yuanita Lubis |Hadir |
-| 5 | Jumat, 24/03/23  | Yadi Mulyadi | Hadir  |
-| Quis Tugas | Jumat, 24/03/23  | Ardini Yuanita Lubis | Hadir  |
-| 6 | Sabtu, 25/03/23  | Yadi Mulyadi | Hadir  |
-| Quis Tugas | Sabtu, 25/03/23  | Ardini Yuanita Lubis |Hadir |
+| 5  Quis Tugas| Jumat, 24/03/23  | Yadi Mulyadi | Hadir  |
+| | Jumat, 24/03/23  | Ardini Yuanita Lubis | Hadir  |
+| 6 Quis Tugas| Sabtu, 25/03/23  | Yadi Mulyadi | Hadir  |
+|  | Sabtu, 25/03/23  | Ardini Yuanita Lubis |Hadir |
 | 7 | Sabtu, 01/04/23  | Yadi Mulyadi | Hadir  |
 |  | Sabtu, 25/03/23  | Ardini Yuanita Lubis |Hadir |
 | UTS | Selasa, 11/04/23  | Yadi Mulyadi | Tidak Kumpul UTS|
@@ -88,14 +88,14 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 |  | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
 | 10 Deskripsi TB| Jumat, 19/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
-| 11 | Sabtu, 20/05/23  | Yadi Mulyadi |  Tidak Hadir  |
-| Project Base| Sabtu, 20/05/23  | Ardini Yuanita Lubis |Hadir |
-| 12 | Sabtu, 27/05/23  | Yadi Mulyadi | Tidak Hadir  |
-|  Deskripsi TB| Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
-| 13 | Jumat, 02/06/23  | Yadi Mulyadi |  -  |
-| Sidang Tugas Besar (UAS) | Jumat, 02/06/23   | Ardini Yuanita Lubis | - |
-| 14 | Sabtu, 03/06/23  | Yadi Mulyadi |  -  |
-| Sidang Tugas Besar (UAS) | Sabtu, 03/06/23 | Ardini Yuanita Lubis| - |
+| 11 Project Base| Sabtu, 20/05/23  | Yadi Mulyadi |  Tidak Hadir  |
+| | Sabtu, 20/05/23  | Ardini Yuanita Lubis |Hadir |
+| 12 Review Progres PB| Sabtu, 27/05/23  | Yadi Mulyadi | Tidak Hadir  |
+|  | Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
+| 13 Sidang Tugas Besar (UAS) | Jumat, 02/06/23  | Yadi Mulyadi |  -  |
+|  | Jumat, 02/06/23   | Ardini Yuanita Lubis | - |
+| 14 Sidang Tugas Besar (UAS)| Sabtu, 03/06/23  | Yadi Mulyadi |  -  |
+|  | Sabtu, 03/06/23 | Ardini Yuanita Lubis| - |
 
 ## Daftar Nilai
 
