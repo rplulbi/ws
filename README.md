@@ -93,9 +93,9 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 | 12 | Sabtu, 27/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  Deskripsi TB| Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
 | 13 | Jumat, 02/06/23  | Yadi Mulyadi |  -  |
-| Sidang Tugas Besar (UAS) | Sabtu, 20/05/23  | - |
-| 14 | Jumat, 03/06/23  | Yadi Mulyadi |  -  |
-| Sidang Tugas Besar (UAS) | Sabtu, 20/05/23  | - |
+| Sidang Tugas Besar (UAS) | Jumat, 02/06/23   | Ardini Yuanita Lubis | - |
+| 14 | Sabtu, 03/06/23  | Yadi Mulyadi |  -  |
+| Sidang Tugas Besar (UAS) | Sabtu, 03/06/23 | Ardini Yuanita Lubis| - |
 
 ## Daftar Nilai
 
