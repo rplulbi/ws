@@ -21,4 +21,4 @@ Namun, jangan ragu untuk menggunakan IDE apa pun yang Anda rasa nyaman.
 Keakraban dengan Golang, pgAdmin, dan cara kerja ORM akan bermanfaat.
 Memiliki lingkungan pengembangan Golang yang berfungsi. [Klik di sini untuk mengunduh Golang versi terbaru] (https://go.dev/dl/) .
 Pasang Docker dan Docker-compose di sistem Anda.
-<iframe src="https://codevoweb.com/ezoic/video/embed.go?contentId=39b91d4d6b3b898b729549b9e6bebdb70df8a1b6" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
