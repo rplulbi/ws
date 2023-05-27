@@ -90,10 +90,12 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 |  Deskripsi TB| Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
 | 11 | Sabtu, 20/05/23  | Yadi Mulyadi |  Tidak Hadir  |
 | Project Base| Sabtu, 20/05/23  | Ardini Yuanita Lubis |Hadir |
-| 12 | Jumat, 26/05/23  | Yadi Mulyadi | Tidak Hadir  |
+| 12 | Sabtu, 27/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  Deskripsi TB| Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
-| 13 | Sabtu, 27/05/23  | Yadi Mulyadi |  Tidak Hadir  |
-| Project Base| Sabtu, 20/05/23  | Ardini Yuanita Lubis |Hadir |
+| 13 | Jumat, 02/06/23  | Yadi Mulyadi |  -  |
+| Sidang Tugas Besar (UAS) | Sabtu, 20/05/23  | - |
+| 14 | Jumat, 03/06/23  | Yadi Mulyadi |  -  |
+| Sidang Tugas Besar (UAS) | Sabtu, 20/05/23  | - |
 
 ## Daftar Nilai
 
