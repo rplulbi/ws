@@ -25,3 +25,63 @@ Keuntungan utama GraphQL adalah fleksibilitasnya. Klien memiliki kontrol penuh a
 Selain itu, GraphQL menyediakan fitur seperti validasi tipe data pada tingkat skema, introspeksi untuk mendapatkan informasi tentang skema yang tersedia, dan kemampuan untuk melakukan mutasi (pengubahan) data.
 
 GraphQL dapat diimplementasikan dengan berbagai bahasa pemrograman, dan ada banyak alat dan framework yang mendukung pengembangan dan penggunaan GraphQL, seperti Apollo, Relay, dan banyak lainnya.
+
+# CRUD pada GraphQL
+GraphQL dapat digunakan untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data. Untuk melakukan operasi tersebut, kita perlu mendefinisikan tipe-tipe dan resolver yang sesuai dalam skema GraphQL.
+
+Berikut adalah contoh penggunaan CRUD pada GraphQL:
+1. Create (Membuat data baru): Untuk membuat data baru, kita menggunakan operasi mutation dalam GraphQL. Berikut adalah contoh penggunaan mutation untuk membuat pengguna baru:
+``` graphql
+mutation {
+  createUser(input: {
+    name: "Roni Andarsyah",
+    email: "roniandarsyah@ulbi.ac.id"
+  }) {
+    id
+    name
+    email
+  }
+}
+```
+
+Dalam contoh ini, kita menggunakan mutation dengan nama createUser. Operasi ini menerima input berupa nama dan email pengguna baru, dan mengembalikan id, nama, dan email pengguna yang baru dibuat.
+
+2. Read (Membaca data): Untuk membaca data, kita menggunakan operasi query dalam GraphQL. Berikut adalah contoh penggunaan query untuk mendapatkan informasi pengguna berdasarkan ID:
+``` graphql
+query {
+  user(id: 1) {
+    id
+    name
+    email
+  }
+}
+```
+Dalam contoh ini, kita menggunakan query dengan nama user. Operasi ini menerima input berupa ID pengguna dan mengembalikan id, nama, dan email pengguna yang sesuai dengan ID tersebut.
+
+3. Update (Memperbarui data): Untuk memperbarui data, kita juga menggunakan operasi mutation dalam GraphQL. Berikut adalah contoh penggunaan mutation untuk memperbarui nama pengguna berdasarkan ID:
+``` graphql
+mutation {
+  updateUser(id: 1, input: {
+    name: "John Smith"
+  }) {
+    id
+    name
+    email
+  }
+}
+```
+Dalam contoh ini, kita menggunakan mutation dengan nama updateUser. Operasi ini menerima input berupa ID pengguna dan nama baru yang ingin diperbarui. Operasi ini mengembalikan id, nama, dan email pengguna setelah diperbarui.
+
+4. Delete (Menghapus data): Untuk menghapus data, kita menggunakan operasi mutation juga. Berikut adalah contoh penggunaan mutation untuk menghapus pengguna berdasarkan ID:
+``` graphql
+mutation {
+  deleteUser(id: 1) {
+    id
+    name
+    email
+  }
+}
+```
+Dalam contoh ini, kita menggunakan mutation dengan nama deleteUser. Operasi ini menerima input berupa ID pengguna yang ingin dihapus. Operasi ini mengembalikan id, nama, dan email pengguna yang dihapus.
+
+Untuk menerapkan operasi CRUD dalam GraphQL, kita perlu menentukan resolver yang sesuai untuk setiap operasi yang didefinisikan dalam skema GraphQL. Resolver adalah fungsi yang menghubungkan operasi GraphQL dengan logika bisnis yang sesuai untuk memanipulasi data pada backend.
