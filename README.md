@@ -62,40 +62,42 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 ## Absensi Kehadiran
 | PART     | Hari/Tgl   | Nama           | Kehadiran  |
 | -------| -------|-------------- | --- |
-| 1 | Jumat, 10/03/23  | Yadi Mulyadi | Hadir  |
-|  | Jumat, 10/03/23  | Ardini Yuanita Lubis | Izin  |
-| 2 | Sabtu, 11/03/23  | Yadi Mulyadi | Hadir  |
-|  | Sabtu, 11/03/23 | Ardini Yuanita Lubis | Hadir  |
-| 3 | Jumat, 17/03/23  | Yadi Mulyadi | Hadir  |
+| 1. Basic WS | Jumat, 10/03/23  | Yadi Mulyadi | Hadir  |
+| | Jumat, 10/03/23  | Ardini Yuanita Lubis | Izin  |
+| 2 Postman| Sabtu, 11/03/23  | Yadi Mulyadi | Hadir  |
+| | Sabtu, 11/03/23 | Ardini Yuanita Lubis | Hadir  |
+| 3 RESTful API| Jumat, 17/03/23  | Yadi Mulyadi | Hadir  |
 |  | Jumat, 17/03/23  | Ardini Yuanita Lubis | Hadir  |
-| 4 | Sabtu, 18/03/23  | Yadi Mulyadi | Hadir  |
+| 4 Public API| Sabtu, 18/03/23  | Yadi Mulyadi | Hadir  |
 |  | Sabtu, 18/03/23  | Ardini Yuanita Lubis |Hadir |
-| 5 | Jumat, 24/03/23  | Yadi Mulyadi | Hadir  |
-| Quis Tugas | Jumat, 24/03/23  | Ardini Yuanita Lubis | Hadir  |
-| 6 | Sabtu, 25/03/23  | Yadi Mulyadi | Hadir  |
-| Quis Tugas | Sabtu, 25/03/23  | Ardini Yuanita Lubis |Hadir |
-| 7 | Sabtu, 01/04/23  | Yadi Mulyadi | Hadir  |
+| 5   HTTP Header/Body Capture | Jumat, 24/03/23  | Yadi Mulyadi | Hadir  |
+| | Jumat, 24/03/23  | Ardini Yuanita Lubis | Hadir  |
+| 6 Quis GoCapture | Sabtu, 25/03/23  | Yadi Mulyadi | Hadir  |
+| | Sabtu, 25/03/23  | Ardini Yuanita Lubis |Hadir |
+| 7 Dependencies| Sabtu, 01/04/23  | Yadi Mulyadi | Hadir  |
 |  | Sabtu, 25/03/23  | Ardini Yuanita Lubis |Hadir |
 | UTS | Selasa, 11/04/23  | Yadi Mulyadi | Tidak Kumpul UTS|
 |  | Selasa, 11/04/23 | Ardini Yuanita Lubis | Hadir |
-| 8 | Jumat, 05/05/23  | Yadi Mulyadi | Tidak Hadir  |
+| 8 Web Socket | Jumat, 05/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 05/05/23  | Ardini Yuanita Lubis |Hadir |
-| 9 | Sabtu, 05/05/23  | Yadi Mulyadi |  Hadir  |
-| Tugas Review Materi | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
-| 8 | Jumat, 05/05/23  | Yadi Mulyadi | Tidak Hadir  |
-|  | Jumat, 05/05/23  | Ardini Yuanita Lubis |Hadir |
-| 9 | Sabtu, 05/05/23  | Yadi Mulyadi |  Tidak Hadir  |
-| Tugas Review Materi | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
-| 10 | Jumat, 19/05/23  | Yadi Mulyadi | Tidak Hadir  |
-|  Deskripsi TB| Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
-| 11 | Sabtu, 20/05/23  | Yadi Mulyadi |  Tidak Hadir  |
-| Project Base| Sabtu, 20/05/23  | Ardini Yuanita Lubis |Hadir |
+| 9  Go Fiber| Sabtu, 05/05/23  | Yadi Mulyadi |  Hadir  |
+| | Sabtu, 05/05/23  | Ardini Yuanita Lubis |Hadir |
+| 10 Goroutine| Jumat, 19/05/23  | Yadi Mulyadi | Tidak Hadir  |
+| | Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
+| 11 API GOLANGCRUD| Sabtu, 20/05/23  | Yadi Mulyadi |  Tidak Hadir  |
+| | Sabtu, 20/05/23  | Ardini Yuanita Lubis |Hadir |
+| 12 GRAPHQL MongoDB |Sabtu, 27/05/23  | Yadi Mulyadi | Tidak Hadir  |
+|  | Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
+| 13 Sidang PB(UAS) | Jumat, 02/06/23  | Yadi Mulyadi |  -  |
+|  | Jumat, 02/06/23   | Ardini Yuanita Lubis | - |
+| 14 Sidang PB(UAS)| Sabtu, 03/06/23  | Yadi Mulyadi |  -  |
+|  | Sabtu, 03/06/23 | Ardini Yuanita Lubis| - |
 
 ## Daftar Nilai
 
-| No     | Nama           | Tugas 1   | Tugas 2   | Tugas 3   |UTS   |
-| ------- | -------------- | --- | --- | --- |--- |
-| 1 | Yadi Mulyadi | 85   | 80 |75 |0 |
-| 2 | Ardini Yuanita Lubis | 80   | 85 | 87 | 90 |
+| No     | Nama           | Tugas 1   | Tugas 2   | Tugas 3   |Tugas 4   |UTS   |
+| ------- | -------------- | --- | --- | --- |--- |--- |
+| 1 | Yadi Mulyadi | 85   | 80 |75 |0 |0 |
+| 2 | Ardini Yuanita Lubis | 80   | 85 | 87 |86 | 90 |
 
 
