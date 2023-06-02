@@ -116,3 +116,5 @@ func updateUserHandler(w http.ResponseWriter, r *http.Request) {
 			users[i].Email = updatedUser.Email
 
 			//
+		}
+	}
