@@ -88,10 +88,10 @@ jika tidak ada kunci yang muncul, harap buat kunci baru atur konfigurasi global 
 | | Sabtu, 20/05/23  | Ardini Yuanita Lubis |Hadir |
 | 12 GRAPHQL MongoDB |Sabtu, 27/05/23  | Yadi Mulyadi | Tidak Hadir  |
 |  | Jumat, 19/05/23  | Ardini Yuanita Lubis |Hadir |
-| 13 Sidang PB(UAS) | Jumat, 02/06/23  | Yadi Mulyadi |  -  |
-|  | Jumat, 02/06/23   | Ardini Yuanita Lubis | - |
-| 14 Sidang PB(UAS)| Sabtu, 03/06/23  | Yadi Mulyadi |  -  |
-|  | Sabtu, 03/06/23 | Ardini Yuanita Lubis| - |
+| 13 Sidang PB(UAS) | Jumat, 02/06/23  | Yadi Mulyadi |  Tidak Hadir  |
+|  | Jumat, 02/06/23   | Ardini Yuanita Lubis | Hadir |
+| 14 Sidang PB(UAS)| Sabtu, 03/06/23  | Yadi Mulyadi |  Tidak Hadir  |
+|  | Sabtu, 03/06/23 | Ardini Yuanita Lubis| Hadir |
 
 ## Daftar Nilai
 
