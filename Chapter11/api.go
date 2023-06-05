@@ -35,7 +35,7 @@ func main() {
 	router.HandleFunc("/users/{id}", updateUserHandler).Methods("PUT")
 
 	// Menambahkan handler untuk endpoint '/users/{id}'
-	router.HandleFunc("/users/{id}", deleteUserHandler).Methods("DELETE")
+	//router.HandleFunc("/users/{id}", deleteUserHandler).Methods("DELETE")
 
 	// Menjalankan server pada port 8080
 	log.Println("Server started on port 8080")
@@ -118,3 +118,4 @@ func updateUserHandler(w http.ResponseWriter, r *http.Request) {
 			//
 		}
 	}
+}
